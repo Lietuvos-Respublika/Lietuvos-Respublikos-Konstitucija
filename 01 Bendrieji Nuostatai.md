@@ -12,6 +12,8 @@ Lietuvos Respublika yra suvereni demokratinė Valstybė, išreiškianti Lietuvos
 
 Suvereni Valstybės valdžia priklauso Lietuvos liaudžiai. Liaudis savo suvereninę galią laisvai išreiškia per įstatymų sumanymo iniciatyvą, deputatų rinkimus, piliečių arba deputatų balsavimą konstituciniais klausimais ir demokratišką referendumą. Niekas negali varžyti šios galios ar jos pasisavinti.
 
+Lietuvos Respublikos piliečiai turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės suverenumą ir vientisumą.
+
 Valstybinę valdžią Lietuvoje vykdo Lietuvos Respublikos Aukščiausioji Taryba, Lietuvos Respublikos Vyriausybė ir Teismas.
 
 #### 3 straipsnis.
