@@ -36,7 +36,9 @@ Lietuvos Respublikos įstatymai gali būti priimami ir referendumu.
 
 #### 79 straipsnis.
 
-Lietuvos Respublikos Aukščiausioji Taryba susideda iš 141 deputato, išrinkto rinkiminėse apygardose, turinčiose vienodą rinkėjų skaičių.
+Lietuvos Respublikos Aukščiausioji Taryba susideda iš ketveriems metams renkamo 141 deputato.
+
+Lietuvos Respublikos Aukščiausioji Taryba gali nutraukti savo įgaliojimus anksčiau laiko. Toks nutarimas gali būti priimtas dviejų trečdalių bendro deputatų skaičiaus balsų dauguma. Tokiu atveju skelbiami pirmalaikiai rinkimai, o Aukščiausioji Taryba vykdo valstybinės valdžios funkcijas tol, kol išrinkta nauja Lietuvos Respublikos aukščiausioji valstybinės valdžios institucija susirinks į pirmąjį posėdį.
 
 Aukščiausioji Taryba savo išrinktos Mandatų komisijos teikimu priima sprendimą dėl deputatų įgaliojimų pripažinimo. Konstatavus rinkimų įstatymo pažeidimo atvejį kurioje nors rinkiminėje apygardoje, turintį lemiamos įtakos rinkimų rezultatams, deputato rinkimai toje apygardoje pripažįstami negaliojančiais.
 

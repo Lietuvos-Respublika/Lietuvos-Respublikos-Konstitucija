@@ -2,13 +2,7 @@
 
 # DEPUTATAS
 
-#### 73 straipsnis.
-
-Deputatai yra įgalioti liaudies atstovai Liaudies deputatų tarybose.
-
-Dalyvaudami Tarybų veikloje, deputatai sprendžia valstybinio, ūkinio ir socialinio kultūrinio darbo klausimus, organizuoja Tarybų sprendimų įgyvendinimą, kontroliuoja valstybinių organų, įmonių, įstaigų ir organizacijų darbą.
-
-Savo veikloje deputatas vadovaujasi Valstybės interesais, atsižvelgia į rinkiminės apygardos gyventojų poreikius, siekia, kad būtų įgyvendinti rinkėjų priesakai.
+#### 73 straipsnis. (Panaikintas)
 
 #### 74 straipsnis.
 
@@ -31,10 +25,6 @@ Deputatų neliečiamybę, taip pat kitas deputatų veiklos garantijas nustato į
 
 #### 77 straipsnis.
 
-Deputatas privalo atsiskaityti už savo ir atitinkamos Tarybos darbą rinkėjams, taip pat kolektyvams, politinėms partijoms, visuomeninėms organizacijoms ir judėjimams, iškėlusiems jį kandidatu į deputatus.
-
-Deputatas, nepateisinęs rinkėjų pasitikėjimo, gali būti bet kuriuo metu atšauktas daugumos rinkėjų sprendimu įstatymo nustatyta tvarka.
-
 Lietuvos Respublikos Aukščiausiosios Tarybos deputato, paskirto ar išrinkto į Aukščiausiosios Tarybos sudaromų valstybinių organų sudėtį, įgaliojimai apribojami įstatymo nustatytose ribose tol, kol deputatas dirba šiose pareigose.
 
-Vietinės Liaudies deputatų tarybos deputatas, davęs sutikimą ir paskirtas ar išrinktas į tos pačios tarybos sudaromų valstybinių organų sudėtį, netenka deputato įgaliojimų, o jo buvusioje rinkiminėje apygardoje rengiami nauji rinkimai.
+Savivaldybės tarybos deputatas, prieš skiriant ar renkant į tarybos sudaromus valdymo organus, turi raštu įsipareigoti, kad atsisakys deputato įgaliojimų.

@@ -4,52 +4,70 @@
 
 #### 65 straipsnis.
 
-Deputatais į visas deputatų tarybas renkami Lietuvos piliečiai remiantis visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Deputatais į Lietuvos Respublikos Seimą, taip pat savivaldybių tarybas renkami Lietuvos Respublikos piliečiai, remiantis visuotine ir lygia rinkimų teise, tiesioginiuose rinkimuose slaptu balsavimu.
+
+Seimo deputatų rinkimo tvarką nustato Seimo rinkimų įstatymas.
 
 #### 66 straipsnis.
 
-Deputatų rinkimai yra visuotiniai: teisę rinkti turi Lietuvos piliečiai, sukakę 18 metų.
-Vietinių Liaudies deputatų tarybų deputatu gali būti išrinktas Lietuvos pilietis, sukakęs 18 metų, o Aukščiausiosios Tarybos deputatu – sukakęs 21 metus.
-Lietuvos Respublikos Aukščiausiosios Tarybos deputatas negali būti kitos tarybos deputatu.
-Asmenys, kurie įeina į Ministrų Tarybos, vietinių Liaudies deputatų tarybų sudaromų valdymo organų sudėtį, taip pat ministerijų, valstybinių komitetų ir žinybų vadovai, teisėjai, prokurorai ir valstybiniai arbitrai bei kiti pareigūnai negali būti Tarybos, kuri juos renka, skiria arba tvirtina, deputatai.
-Rinkimuose nedalyvauja piliečiai, teismo pripažinti neveiksniais, asmenys, laikomi laisvės atėmimo vietose, remiantis teismo nuosprendžiu (nutarimu) arba ryšium su vykdomu tyrimu baudžiamojoje byloje, taip pat nusiųsti teismo sprendimu į priverstinio gydymo vietas.
+Deputatų rinkimai yra visuotiniai: teisę rinkti turi Lietuvos Respublikos piliečiai, kurie rinkimų dieną yra ne jaunesni kaip 18 metų.
+
+Savivaldybių tarybų deputatu gali būti renkamas Lietuvos Respublikos pilietis, turintis aktyviąją rinkimų teisę ir pastaruosius vienerius metus gyvenantis atitinkamos savivaldybės teritorijoje.
+
+Seimo deputatu gali būti renkamas Lietuvos Respublikos pilietis, kuris rinkimų dieną yra ne jaunesnis kaip 21 metų ir pastaruosius trejus metus nuolat gyvena Lietuvoje.
+
+Deputatais negali būti renkami asmenys, rinkimų dieną atliekantys tikrąją karinę arba alternatyvią tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų pareigūnai.
+
+Seimo deputatais negali būti renkami asmenys, neatlikę bausmės pagal teismo paskirtą nuosprendį.
+
+Rinkimuose nedalyvauja piliečiai, teismo pripažinti neveiksniais.
 
 #### 67 straipsnis.
 
-Deputatų rinkimai rinkiminėse apygardose yra lygūs: rinkėjas turi vieną balsą, rinkėjai dalyvauja rinkimuose lygiais pagrindais.
+Deputatų rinkimai yra lygūs: rinkėjo balsas yra lygiavertis kiekvieno kito turinčio teisę rinkti piliečio balsui.
 
 #### 68 straipsnis.
 
-Deputatų rinkimai yra tiesioginiai: deputatus piliečiai renka betarpiškai.
+Deputatų rinkimai yra tiesioginiai: deputatus piliečiai renka be tarpininkų.
 
 #### 69 straipsnis.
 
-Balsavimas rinkimuose yra asmeniškas ir slaptas; rinkėjų reiškiamos valios kontroliuoti neleidžiama.
-
-Visiems rinkėjams užtikrinamos vienodos balsavimo sąlygos.
+Rinkėjai balsuoja asmeniškai ir slaptai. Rinkėjų valią rinkimuose kontroliuoti draudžiama.
 
 #### 70 straipsnis.
 
-Teisę kelti kandidatus į deputatus turi politinės partijos, visuomeninės organizacijos, visuomeniniai judėjimai, darbo kolektyvų ir gyvenamosios vietos rinkėjų susirinkimai.
+Teisę kelti kandidatus į Seimo ir savivaldybių tarybų deputatus turi politinės partijos, visuomeniniai politiniai judėjimai, taip pat pavieniai asmenys save, jeigu jų kandidatūrą remia įstatymuose numatytos rinkėjų grupės.
 
-Kandidatų į deputatus skaičius neribojamas. Kiekvienas rinkiminio susirinkimo dalyvis turi teisę siūlyti svarstyti bet kurio Lietuvos piliečio kandidatūrą, taip pat ir savo. Į rinkiminius biuletenius gali būti įrašytas bet koks kandidatų skaičius.
+#### 70-1 straipsnis.
 
-Išlaidas, susijusias su deputatų rinkimų parengimu ir organizavimu, apmoka Valstybė.
+Deputatų rinkimai rengiami atvirai ir viešai.
+
+Rinkimus organizuoja rinkimų komisijos, kurios sudaromos iš politinių partijų ir visuomeninių politinių judėjimų atstovų.
+
+Rinkimų komisijos informuoja piliečius apie savo darbą, rinkimų apygardų ir apylinkių sudarymą, rinkimų komisijų sudėtį, buvimo vietą ir darbo laiką, apie rinkėjų sąrašus, kandidatus ir rinkimų rezultatus.
+
+Masinės informacijos priemonės informuoja apie rinkimų rengimą ir vykdymą. Jų atstovai turi teisę nekliudomai dalyvauti visuose renginiuose, kuriuos organizuoja rinkimų komisijos, taip pat gauti informaciją apie rinkimų rengimą ir vykdymą.
 
 #### 71 straipsnis.
 
-Deputatų rinkimams ruošiamasi atvirai ir viešai.
+Rinkimų rengimo ir vykdymo išlaidas apmoka valstybė.
 
-Rinkimus organizuoja rinkiminės komisijos, kurios sudaromos iš politinių partijų, visuomeninių organizacijų, visuomeninių judėjimų, darbo kolektyvų ir gyvenamosios vietos rinkėjų susirinkimų atstovų.
+Rinkiminė agitacija finansuojama iš valstybės, taip pat iš politinių partijų, visuomeninių politinių judėjimų ir kandidatų į deputatus gautų lėšų.
 
-Lietuvos piliečiams, darbo kolektyvams, politinėms partijoms, visuomeninėms organizacijoms, visuomeniniams judėjimams garantuojama galimybė laisvai ir visapusiškai apsvarstyti kandidatų į deputatus politines, dalykines ir asmenines savybes, taip pat teisė agituoti už ar prieš kandidatą susirinkimuose, spaudoje, per televiziją, radiją.
+Rinkimų komisijų narių darbas atlyginamas įstatymų nustatyta tvarka.
 
-Deputatų rinkimų organizavimo tvarką nustato Lietuvos įstatymai.
+#### 71-1 straipsnis.
 
-Skundus dėl deputatų rinkimų įstatymo pažeidimo nagrinėja rinkiminės komisijos ir Lietuvos teismai įstatymų nustatyta tvarka.
+Lietuvos Respublikos piliečiams, politinėms partijoms, visuomeniniams politiniams judėjimams ir kitoms visuomeninėms organizacijoms garantuojama galimybė laisvai ir nekliudomai apsvarstyti kandidatų į deputatus politines, dalykines, asmenines ir dorovines savybes, taip pat teisė agituoti už ar prieš kandidatą susirinkimuose, spaudoje, per televiziją, radiją, jeigu tai nežemina žmogaus orumo ir nepažeidžia Lietuvos Respublikos įstatymų.
 
 #### 72 straipsnis.
 
-Rinkėjai duoda priesakus savo deputatams.
+Skundus dėl rinkimų apygardų, rinkimų apylinkių, apygardų ir apylinkių rinkimų komisijų sudarymo, taip pat dėl rinkimų komisijų sprendimų nagrinėja atitinkamos rinkimų komisijos ir Lietuvos Respublikos teismai įstatymų nustatyta tvarka.
 
-Atitinkamos Liaudies deputatų tarybos nagrinėja priesakus, atsižvelgia į juos, sudarydamos biudžetą, taip pat rengdamos sprendimus kitais klausimais, organizuoja priesakų įgyvendinimą ir informuoja piliečius apie jų realizavimą.
+#### 72-1 straipsnis.
+
+Išrinktas Seimo deputatas privalo nuolat dirbti Seime, išskyrus atvejus, kai jis paskiriamas Vyriausybės nariu.
+
+Lietuvos Respublikos Seimo deputato pareigos, išskyrus jo pareigas Seime, savininko teisių įgyvendinimą, pedagoginę, mokslinę ir kūrybinę veiklą, nesuderinamos su jokiomis kitomis pareigomis valstybinėse įstaigose ir organizacijose, taip pat su darbu verslo, komercijos bei kitose privačiose įstaigose ar įmonėse. Seimo deputatas taip pat negali būti savivaldybės tarybos deputatu.
+
+Deputato darbas Seime atlyginamas įstatymų nustatyta tvarka.

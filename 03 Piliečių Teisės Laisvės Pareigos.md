@@ -60,7 +60,7 @@ Autorių, išradėjų ir racionalizatorių teises saugo Valstybė.
 
 Lietuvos piliečiai turi teisę dalyvauti tvarkant valstybinius ir visuomeninius reikalus, svarstant ir priimant visos Valstybės įstatymus ir vietinės reikšmės sprendimus.
 
-Šią teisę užtikrina galimybė rinkti ir būti išrinktiems į Liaudies deputatų tarybas ir kitus renkamus valstybinius organus, dalyvauti visuomenės svarstymuose ir balsavimuose, kontrolės, valstybinių organų, visuomeninių organizacijų ir visuomenės savaveiksmių organų darbe, darbo kolektyvų susirinkimuose ir susirinkimuose pagal gyvenamąją vietą.
+Šią teisę užtikrina galimybė rinkti ir būti išrinktiems į Seimą, taip pat savivaldybių tarybas ir kitus renkamus valstybinius organus, dalyvauti visuomenės svarstymuose ir balsavimuose, kontrolės, valstybinių organų, visuomeninių organizacijų ir visuomenės savaveiksmių organų darbe, darbo kolektyvų susirinkimuose ir susirinkimuose pagal gyvenamąją vietą.
 
 #### 27 straipsnis.
 

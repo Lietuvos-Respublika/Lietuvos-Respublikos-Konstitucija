@@ -14,7 +14,7 @@ Respublikos miestai: Vilnius, Alytus, Birštonas, Druskininkai, Kaunas, Klaipėd
 
 #### 102 straipsnis.
 
-Rajonų, miestų, gyvenviečių, apylinkių valstybinės valdžios organai yra atitinkamos Liaudies deputatų tarybos.
+Rajonų, miestų, gyvenviečių, apylinkių valstybinės valdžios organai yra atitinkamos Liaudies deputatų tarybos, kurios renkamos ketveriems metams.
 
 Vietinės Liaudies deputatų tarybos renka pirmininką, o rajonų ir Respublikos miestų tarybos taip pat suformuoja ir savo prezidiumą.
 
