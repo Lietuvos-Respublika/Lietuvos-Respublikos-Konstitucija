@@ -137,6 +137,8 @@ Aukščiausioji Taryba prireikus sudaro tardymo, revizijos ir kitas komisijas be
 
 Pareigūnai, įeinantys į Lietuvos Ministrų Tarybos sudėtį, Lietuvos Aukščiausiojo teismo nariai, taip pat Lietuvos Respublikos prokuratūros ir Lietuvos valstybinio arbitražo kolegijų nariai renkami ir skiriami, kai yra atitinkamų Aukščiausiosios Tarybos nuolatinių komisijų išvada.
 
+Naujai išrinkta Lietuvos Respublikos Aukščiausioji Taryba gali skirti Ministrą Pirmininką ir tvirtinti jo pavaduotojus dar neišrinkusi Aukščiausiosios Tarybos nuolatinių komisijų.
+
 Visi valstybiniai ir visuomeniniai organai, organizacijos ir pareigūnai privalo vykdyti Aukščiausiosios Tarybos komisijų reikalavimus, pateikti joms reikiamą medžiagą ir dokumentus.
 
 Komisijų rekomendacijas privalo apsvarstyti valstybiniai ir visuomeniniai organai, įstaigos ir organizacijos. Apie svarstymo rezultatus ir priemones, kurių imtasi, turi būti pranešta komisijoms jų nustatytu laiku.
