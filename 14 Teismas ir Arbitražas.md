@@ -6,21 +6,23 @@
 
 Teisingumą Lietuvos Respublikoje vykdo tik teismas. Teismai su ypatingais įgaliojimais Lietuvoje negali būti steigiami.
 
-Lietuvos Respublikos teismai yra Lietuvos Aukščiausiasis teismas ir rajonų (miestų) teismai.
+Lietuvos Respublikos teismai yra Lietuvos Aukščiausiasis Teismas, Lietuvos apeliacinis teismas, apygardų ir apylinkių teismai.
 
 Lietuvos teismų organizavimo ir veiklos tvarką nustato Lietuvos įstatymai.
 
 #### 114 straipsnis.
 
-Lietuvos teismai sudaromi iš renkamų teisėjų ir teismo tarėjų.
+Lietuvos Respublikos teismai sudaromi iš skiriamų teisėjų ir renkamų tarėjų.
 
-Rajonų (miestų) teismų teisėjus ir Lietuvos Aukščiausiojo teismo teisėjus renka Lietuvos Respublikos Aukščiausioji Taryba.
+Lietuvos Aukščiausiojo Teismo pirmininką, šio teismo skyrių pirmininkus ir teisėjus skiria Lietuvos Respublikos Aukščiausioji Taryba.
 
-Rajonų (miestų) teismų tarėjus renka vietinės Liaudies deputatų tarybos, o Lietuvos Aukščiausiojo teismo tarėjus Aukščiausioji Taryba.
+Lietuvos Respublikos apylinkių, apygardų teismų ir Lietuvos apeliacinio teismo teisėjus skiria Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas.
 
-Teismų teisėjai renkami dešimčiai metų, o teismų tarėjai penkeriems metams.
+Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo paskirtus Lietuvos apeliacinio teismo teisėjus tvirtina Lietuvos Respublikos Aukščiausioji Taryba.
 
-Teisėjai ir teismo tarėjai atsakingi juos išrinkusiems valdžios organams ir gali būti įstatymo nustatyta tvarka ir pagrindais jų atšaukti.
+Lietuvos Respublikos teismų teisėjai skiriami penkeriems metams. Pasibaigus šiam laikotarpiui, jie skiriami: moterys iki 60 metų, vyrai iki 65 metų amžiaus.
+
+Teisėjai atsakingi Lietuvos Respublikos Aukščiausiajai Tarybai ir tik jos sprendimu įstatymo nustatyta tvarka ir pagrindais gali būti atleisti iš užimamų pareigų.
 
 #### 115 straipsnis.
 

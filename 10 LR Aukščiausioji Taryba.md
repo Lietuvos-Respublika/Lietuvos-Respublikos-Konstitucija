@@ -17,7 +17,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos kompetencijai priklauso:
 8. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininką;
 9. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko pavaduotojus ir Sekretorių;
 10. skirti Lietuvos Respublikos Ministrą Pirmininką ir kitus Vyriausybės narius, daryti Vyriausybės pakeitimus, Vyriausybės pasiūlymu sudaryti ir panaikinti Lietuvos Respublikos ministerijas;
-11. rinkti Lietuvos Respublikos aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos generalinį prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
+11. skirti Lietuvos Aukščiausiojo Teismo pirmininką, šio teismo skyrių pirmininkus, Aukščiausiojo Teismo pirmininko siūlymu skirti šio teismo teisėjus, tvirtinti Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo paskirtus Lietuvos apeliacinio teismo teisėjus, skirti Lietuvos Respublikos generalinį prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
 12. reguliariai išklausyti jos sudaromų arba renkamų organų, išskyrus Lietuvos aukščiausiąjį teismą, taip pat jos skiriamų pareigūnų ataskaitas; prireikus, slaptu balsavimu spręsti pasitikėjimo Lietuvos Respublikos Vyriausybe, kitais Aukščiausiosios Tarybos sudaromais valstybės organais ar konkrečiu jų nariu, išskyrus Lietuvos aukščiausiąjį teismą, klausimą;
 13. nustatyti reikiamas priemones Valstybės saugumo ir viešosios tvarkos užtikrinimo srityje; prireikus, svarstyti nacionalinių ir tarpnacionalinių santykių klausimus;
 14. keisti Lietuvos Respublikos administracinį teritorinį suskirstymą ir nustatyti šių klausimų sprendimo tvarką;
@@ -97,7 +97,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas:
 7. suteikia Lietuvos Respublikos pilietybę; sprendžia klausimus dėl Lietuvos pilietybės netekimo, dėl prieglobsčio suteikimo;
 8. skiria Lietuvos Respublikos apdovanojimus ir suteikia garbės vardus;
 9.
-    1. teikia Aukščiausiajai Tarybai Lietuvos aukščiausiojo teismo teisėjų ir tarėjų kandidatūras;
+    1. skiria apylinkių ir apygardų, taip pat Lietuvos apeliacinio teismo teisėjus;
     2. teikia malonę asmenims, kuriuos yra nuteisę Lietuvos teismai;
 10. skiria ir atšaukia Lietuvos diplomatinius atstovus užsienio valstybėse ir prie tarptautinių organizacijų;
 11. vykdo kitokius Aukščiausiosios Tarybos pavedimus.
@@ -121,7 +121,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas:
 1. vykdo bendrąjį vadovavimą rengimui klausimų, kuriuos turi apsvarstyti Aukščiausioji Taryba; pasirašo Lietuvos Respublikos įstatymus ir kitus Aukščiausiosios Tarybos ir Aukščiausiosios Tarybos Prezidiumo priimtus aktus;
 2. pateikia Aukščiausiajai Tarybai pranešimus dėl Respublikos padėties ir dėl svarbių Lietuvos vidaus ir užsienio politikos klausimų;
 3. pateikia Aukščiausiajai Tarybai kandidatūras išrinkimui į Aukščiausiosios Tarybos Pirmininko pavaduotojų ir Aukščiausiosios Tarybos Sekretoriaus pareigas;
-4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, Lietuvos Respublikos generalinio prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
+4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, šio teismo skyrių pirmininkų, Lietuvos Respublikos generalinio prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
 5. veda derybas ir pasirašo Lietuvos Respublikos tarptautines sutartis, pateikdamas jas ratifikuoti Lietuvos Respublikos Aukščiausiajai Tarybai;
 6. priima užsienio valstybių diplomatinių atstovų įgaliojamuosius ir atšaukiamuosius raštus.
 
