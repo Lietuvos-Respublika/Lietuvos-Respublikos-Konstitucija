@@ -4,7 +4,7 @@
 
 #### 110 straipsnis.
 
-Lietuvos įstatymams, taip pat vietinių Liaudies deputatų tarybų sprendimams įgyvendinti savivaldybių Tarybos sudaro joms atskaitingus valdymo organus.
+Lietuvos įstatymams, taip pat savivaldybių tarybų sprendimams įgyvendinti savivaldybių tarybos sudaro joms atskaitingus valdymo organus.
 
 #### 111 straipsnis.
 

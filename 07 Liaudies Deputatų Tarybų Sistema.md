@@ -1,35 +1,13 @@
 ### 7 S K I R S N I S
 
-# LIAUDIES DEPUTATŲ TARYBŲ SISTEMA IR JŲ VEIKLOS PRINCIPAI
+# LIAUDIES DEPUTATŲ TARYBŲ SISTEMA IR JŲ VEIKLOS PRINCIPAI (panaikintas)
 
-#### 60 straipsnis.
+#### 60 straipsnis. (panaikintas)
 
-Liaudies deputatų tarybos – Lietuvos Respublikos Seimas, rajonų, miestų, gyvenviečių ir apylinkių Liaudies deputatų Tarybos – sudaro vieningą Lietuvos atstovaujamų valstybinės valdžios organų sistemą.
+#### 61 straipsnis. (panaikintas)
 
-Liaudies deputatų tarybos savo teritorijoje yra pilnateisės gyventojų valios vykdytojos, veikiančios demokratijos ir įstatymų pagrindu.
+#### 62 straipsnis. (panaikintas)
 
-#### 61 straipsnis.
+#### 63 straipsnis. (panaikintas)
 
-Tarybų įgaliojimų laikas – penkeri metai. Lietuvos Respublikos Seimo deputatų ir vietinių tarybų deputatų rinkimai skiriami likus ne mažiau kaip penkiems mėnesiams iki jų įgaliojimų laiko pabaigos.
-
-Lietuvos Respublikos Seimas gali nutraukti savo įgaliojimus anksčiau laiko. Toks nutarimas turi būti priimtas dviejų trečdalių bendro deputatų skaičiaus balsų dauguma. Tokiu atveju skelbiami pirmalaikiai rinkimai, o Seimas vykdo valstybinės valdžios funkcijas tol, kol bus išrinkta nauja Seimas.
-
-#### 62 straipsnis.
-
-Svarbiausi valstybinės ir vietinės reikšmės klausimai svarstomi ir sprendžiami Lietuvos Respublikos Seimo ir vietinių Liaudies deputatų tarybų sesijose.
-
-Liaudies deputatų tarybos gali sudaryti nuolatines komisijas, sudaro valdymo, taip pat kitus joms atskaitingus organus.
-
-Liaudies deputatų tarybų renkami arba skiriami pareigūnai negali eiti savo pareigų daugiau kaip dvi kadencijas iš eilės.
-
-Kiekvienas pareigūnas gali būti prieš terminą atleistas iš savo pareigų, jeigu jis deramai jų neatlieka.
-
-#### 63 straipsnis.
-
-Liaudies deputatų tarybos betarpiškai ir per savo sudaromus organus rūpinasi atitinkamose teritorijose valstybiniais, ūkiniais, socialiniais ir kultūriniais reikalais, priima sprendimus, užtikrina jų vykdymą, kontroliuoja, kaip įgyvendinami sprendimai.
-
-#### 64 straipsnis.
-
-Liaudies deputatų tarybų veikla grindžiama kolektyviniu, laisvu dalykišku klausimų svarstymu ir sprendimu, viešumu, reguliaria vykdomųjų organų, kitų Tarybų sudaromų organų atskaitomybe Taryboms ir gyventojams, plačiu piliečių įtraukimu į savo veiklą.
-
-Liaudies deputatų tarybos ir jų sudaromi organai savo veikloje atsižvelgia į viešąją nuomonę, pateikia piliečiams svarstyti svarbiausius valstybinės ir vietinės reikšmės klausimus, sistemingai informuoja apie savo darbą ir priimtus sprendimus.
+#### 64 straipsnis. (panaikintas)

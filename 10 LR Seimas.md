@@ -95,7 +95,7 @@ Lietuvos Respublikos Seimo Prezidiumas:
 2. organizuoja Seimo sesijų rengimą;
 3. koordinuoja Seimo nuolatinių komisijų veiklą;
 4. prireikus padeda Seimo deputatams vykdyti jų įgaliojimus;
-5. sprendžia metodinės paramos teikimo vietinėms Liaudies deputatų taryboms klausimus;
+5. sprendžia metodinės paramos teikimo savivaldybių taryboms klausimus;
 6. padeda organizuoti ir vykdyti referendumus, taip pat Lietuvos Respublikos įstatymų projektų ir kitų svarbiausių Respublikos valstybinio bei visuomeninio gyvenimo klausimų visuomenės svarstymus;
 7. suteikia Lietuvos Respublikos pilietybę; sprendžia klausimus dėl Lietuvos pilietybės netekimo, dėl prieglobsčio suteikimo;
 8. skiria Lietuvos Respublikos apdovanojimus ir suteikia garbės vardus;
