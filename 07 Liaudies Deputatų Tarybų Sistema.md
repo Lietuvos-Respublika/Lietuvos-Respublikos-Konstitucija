@@ -10,9 +10,9 @@ Liaudies deputatų tarybos savo teritorijoje yra pilnateisės gyventojų valios 
 
 #### 61 straipsnis.
 
-Liaudies deputatų tarybų įgaliojimų laikas – penkeri metai.
+Tarybų įgaliojimų laikas – penkeri metai. Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir vietinių tarybų deputatų rinkimai skiriami likus ne mažiau kaip penkiems mėnesiams iki jų įgaliojimų laiko pabaigos.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir vietinių Liaudies deputatų tarybų deputatų rinkimai skiriami likus ne mažiau kaip trims mėnesiams iki jų įgaliojimų laiko pabaigos.
+Lietuvos Respublikos Aukščiausioji Taryba gali nutraukti savo įgaliojimus anksčiau laiko. Toks nutarimas turi būti priimtas dviejų trečdalių bendro deputatų skaičiaus balsų dauguma. Tokiu atveju skelbiami pirmalaikiai rinkimai, o Aukščiausioji Taryba vykdo valstybinės valdžios funkcijas tol, kol bus išrinkta nauja Aukščiausioji Taryba.
 
 #### 62 straipsnis.
 

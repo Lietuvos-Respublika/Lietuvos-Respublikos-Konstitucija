@@ -16,7 +16,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos kompetencijai priklauso:
 7. nustatyti Lietuvos Respublikos prokuratūros, teismų ir kitų teisingumo organų sistemą, įstatymiškai įtvirtinti jų kompetenciją bei veiklos tvarką;
 8. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininką;
 9. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko pavaduotojus ir Sekretorių;
-10. skirti Lietuvos Respublikos Ministrų Tarybos Pirmininką, jo teikimu tvirtinti Ministrų Tarybos sudėtį, daryti jos pakeitimus; Ministrų Tarybos pasiūlymu sudaryti ir panaikinti Lietuvos Respublikos ministerijas;
+10. skirti Lietuvos Respublikos Ministrą Pirmininką ir kitus Vyriausybės narius, daryti Vyriausybės pakeitimus, Vyriausybės pasiūlymu sudaryti ir panaikinti Lietuvos Respublikos ministerijas;
 11. rinkti Lietuvos Respublikos aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos generalinį prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
 12. reguliariai išklausyti jos sudaromų arba renkamų organų, taip pat jos skiriamų pareigūnų ataskaitas; prireikus, slaptu balsavimu spręsti pasitikėjimo Lietuvos Respublikos vyriausybe konkrečiu jos nariu, klausimą;
 13. nustatyti reikiamas priemones Valstybės saugumo ir viešosios tvarkos užtikrinimo srityje; prireikus, svarstyti nacionalinių ir tarpnacionalinių santykių klausimus;
@@ -42,7 +42,7 @@ Aukščiausioji Taryba savo išrinktos Mandatų komisijos teikimu priima sprendi
 
 #### 80 straipsnis.
 
-Lietuvos Respublikos Aukščiausioji Taryba kasmet renkasi į eilines - pavasario ir rudens - sesijas. Pavasario sesija prasideda kovo 1 d. ir baigiasi ne vėliau kaip birželio 30d., o rudens sesija prasideda rugsėjo 1 d. ir baigiasi ne vėliau kaip gruodžio 15 d.
+Lietuvos Respublikos Aukščiausioji Taryba kasmet renkasi į eilines – pavasario ir rudens – sesijas. Pavasario sesija prasideda kovo 10 dieną ir baigiasi birželio 30 dieną, o rudens sesija prasideda rugsėjo 10 dieną ir baigiasi gruodžio 23 dieną. Aukščiausioji Taryba savo nutarimu gali sesiją pratęsti.
 
 Neeilines sesijas šaukia Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas savo iniciatyva arba pasiūlius ne mažiau kaip trečdaliui Aukščiausiosios Tarybos deputatų.
 
@@ -50,9 +50,9 @@ Lietuvos Respublikos Aukščiausiosios Tarybos sesija susideda iš Aukščiausio
 
 Aukščiausiosios Tarybos posėdžiams vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas. Aukščiausiosios Tarybos Pirmininko pavedimu Lietuvos Respublikos Aukščiausiosios Tarybos posėdžiams gali pirmininkauti Aukščiausiosios Tarybos renkami seniūnas arba jo pavaduotojas.
 
-Pirmąjį po rinkimų Aukščiausiosios Tarybos posėdį pradeda Respublikos rinkiminės komisijos pirmininkas, o po to posėdžiui vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas.
+Pirmoji naujojo šaukimo Aukščiausiosios Tarybos sesija šaukiama, kai pasibaigia ankstesniojo šaukimo Aukščiausiosios Tarybos įgaliojimų laikas ir yra išrinkti ne mažiau kaip du trečdaliai visų deputatų.
 
-Aukščiausiosios Tarybos sesija yra teisėta, kai joje dalyvauja ne mažiau kaip du trečdaliai visų Aukščiausiosios Tarybos deputatų.
+Pirmąjį po rinkimų Aukščiausiosios Tarybos posėdį pradeda Respublikos rinkiminės komisijos pirmininkas, o po to posėdžiui vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas.
 
 #### 81 straipsnis.
 
@@ -68,7 +68,7 @@ Aukščiausiosios Tarybos sesija yra teisėta, kai joje dalyvauja ne mažiau kai
 
 Lietuvos Respublikos įstatymai, Aukščiausiosios Tarybos nutarimai arba kitokie aktai laikomi priimti, jeigu už juos balsavo dauguma Aukščiausiosios Tarybos deputatų, dalyvaujančių sesijoje.
 
-Įstatymų projektai ir kiti svarbiausi Respublikos valstybinio bei visuomeninio gyvenimo klausimai Aukščiausiosios Tarybos sprendimu gali būti pateikti liaudies svarstymui.
+Įstatymų projektai ir kiti svarbiausi Respublikos valstybinio bei visuomeninio gyvenimo klausimai Aukščiausiosios Tarybos sprendimu gali būti pateikti visuomenės svarstymui.
 
 #### 83 straipsnis.
 
@@ -88,7 +88,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumui vadovauja Aukščiaus
 
 Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas:
 
-1. šaukia naujojo šaukimo Aukščiausiosios Tarybos pirmąją sesiją ne vėliau kaip per du mėnesius po rinkimų;
+1. šaukia naujojo šaukimo Aukščiausiosios Tarybos pirmąją sesiją;
 2. organizuoja Aukščiausiosios Tarybos sesijų rengimą;
 3. koordinuoja Aukščiausiosios Tarybos nuolatinių komisijų veiklą;
 4. prireikus padeda Aukščiausiosios Tarybos deputatams vykdyti jų įgaliojimus;
@@ -145,7 +145,7 @@ Komisijų rekomendacijas privalo apsvarstyti valstybiniai ir visuomeniniai organ
 
 #### 90 straipsnis.
 
-Aukščiausiosios Tarybos deputatas Aukščiausiosios Tarybos sesijose turi teisę pateikti paklausimą Aukščiausiosios Tarybos Pirmininkui, Ministrų Tarybai, kitų organų, kuriuos sudaro arba išrenka Aukščiausioji Taryba, vadovams. Organas arba pareigūnas, kuriam pateiktas paklausimas, privalo duoti atsakymą žodžiu arba raštu šioje Aukščiausiosios Tarybos sesijoje ne vėliau kaip per tris dienas arba kitokia Aukščiausiosios Tarybos nustatyta tvarka.
+Aukščiausiosios Tarybos deputatas Aukščiausiosios Tarybos sesijose turi teisę pateikti paklausimą Vyriausybei, jos nariams, kitų valstybės organų, kuriuos sudaro arba išrenka Aukščiausioji Taryba, vadovams. Jie privalo atsakyti žodžiu arba raštu Aukščiausiosios Tarybos sesijoje ne vėliau kaip per tris dienas arba kitokia Aukščiausiosios Tarybos nustatyta tvarka.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos deputatas negali būti patrauktas baudžiamojon atsakomybėn, suimtas, jam teismine tvarka negali būti skiriamos administracinės nuobaudos be Aukščiausiosios Tarybos sutikimo, o laikotarpiu tarp jos sesijų – be Aukščiausiosios Tarybos Prezidiumo sutikimo.
 

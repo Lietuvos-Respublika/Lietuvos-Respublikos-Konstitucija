@@ -9,7 +9,8 @@ Vykdomąją valdžią Lietuvos Respublikoje įgyvendina Vyriausybė. Lietuvos Re
 #### 94 straipsnis.
 
 Ministras Pirmininkas vadovauja Vyriausybei ir jai atstovauja.
-Ministrą Pirmininką skiria Aukščiausioji Taryba Aukščiausiosios Tarybos Pirmininko pasiūlymu. Ministro Pirmininko pavaduotojus ir ministrus skiria Aukščiausioji Taryba Ministro Pirmininko pasiūlymu.
+
+Ministrą Pirmininką skiria Aukščiausioji Taryba Aukščiausiosios Tarybos Pirmininko teikimu. Ministro Pirmininko pavaduotojus ir ministrus skiria Aukščiausioji Taryba Ministro Pirmininko teikimu. Vyriausybės sudarymo tvarką nustato Vyriausybės įstatymas ir Aukščiausiosios Tarybos reglamentas.
 
 #### 95 straipsnis.
 

@@ -12,4 +12,4 @@ Lietuvos Respublikos Laikinasis Pagrindinis Įstatymas keičiamas Lietuvos Respu
 
 #### 132 straipsnis.
 
-Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo pakeitimo arba papildymo sumanymas turi būti Lietuvos Respublikos Aukščiausiosios Tarybos svarstomas, kai jį pateikia ne mažiau kaip 1/10 visų Aukščiausiosios Tarybos deputatų arba Vyriausybė.
+Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo pakeitimo arba papildymo sumanymą Lietuvos Respublikos Aukščiausioji Taryba turi svarstyti, kai jį pateikia nuolatinė komisija arba ne mažesnė kaip viena penkioliktoji bendro deputatų skaičiaus deputatų grupė, arba Vyriausybė.

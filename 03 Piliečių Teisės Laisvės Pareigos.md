@@ -8,7 +8,7 @@ Lietuvos piliečiai turi teisę gauti darbą, apmokamą pagal jo kiekį ir kokyb
 
 #### 19 straipsnis.
 
-Lietuvos piliečiai turi teisę į poilsį. Šią teisę užtikrina ne ilgesnė kaip 41 valandos darbo savaitė, kasmetinės apmokamos atostogos, poilsio dienų suteikimas kiekvieną savaitę, taip pat kultūros, švietimo ir sveikatos įstaigų tinklo plėtimas, masinio sporto, kūno kultūros ir turizmo vystymas, palankių galimybių poilsiui gyvenamojoje vietoje ir kitų sąlygų racionaliai panaudoti laisvalaikį sudarymas.
+Lietuvos piliečiai turi teisę į poilsį. Šią teisę užtikrina ne ilgesnė kaip 40 valandų darbo savaitė, kasmetinės apmokamos atostogos, poilsio dienų suteikimas kiek vieną savaitę, taip pat kultūros, švietimo ir sveikatos įstaigų, masinio sporto, kūno kultūros ir turizmo plėtojimas, galimybių poilsiui gyvenamojoje vietoje ir kitų sąlygų racionaliai leisti laisvalaikį sudarymas.
 
 Kolūkiečių darbo laiko ir poilsio trukmę reguliuoja kolūkiai.
 
