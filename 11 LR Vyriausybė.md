@@ -16,7 +16,7 @@ Ministrą Pirmininką skiria Aukščiausioji Taryba Aukščiausiosios Tarybos Pi
 
 Lietuvos Vyriausybė atsakinga Lietuvos Respublikos Aukščiausiajai Tarybai ir jai atskaitinga, o laikotarpiu tarp Aukščiausiosios Tarybos sesijų – Aukščiausiosios Tarybos Prezidiumui, kuriam yra atskaitinga.
 
-Vyriausybė reguliariai atsisako už savo darbą Aukščiausiajai Tarybai ir privalo turėti jos pasitikėjimą. Jeigu Aukščiausioji Taryba 2/3 jos bendro deputatų skaičiaus dauguma slaptu balsavimu pareiškia Vyriausybei arba atskiram ministrui nepasitikėjimą, visa Vyriausybė ar tas ministras privalo atsistatydinti.
+Vyriausybė reguliariai atsiskaito už darbą Aukščiausiajai Tarybai ir privalo turėti jos pasitikėjimą. Jeigu Aukščiausioji Taryba slaptu balsavimu daugiau kaip pusės bendro deputatų skaičiaus balsų dauguma pareiškia nepasitikėjimą Vyriausybe ar jos nariu, visa Vyriausybė ar tas Vyriausybės narys turi atsistatydinti.
 
 #### 96 straipsnis.
 
