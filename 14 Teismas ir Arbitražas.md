@@ -54,7 +54,7 @@ Visuose teismuose bylos nagrinėjamos viešai. Nagrinėti bylas uždarame teismo
 
 #### 120 straipsnis.
 
-Asmeniui, traukiamam atsakomybėn, garantuojama teisė į gynybą nuo jo sulaikyumo momento.
+Teisė į gynybą garantuojama asmeniui, kuris įtariamas nusikaltimo padarymu, arba kaltinamajam nuo jų pirmosios apklausos momento.
 
 #### 121 straipsnis.
 

@@ -112,9 +112,7 @@ Santuoka grindžiama savanorišku moters ir vyro sutikimu: sutuoktiniai šeimos 
 
 Lietuvos piliečiams garantuojama asmens neliečiamybė.
 
-Remiantis nekaltumo prezumpcija, niekas negali būti persekiojamas kaip nusikaltėlis be įstatymo numatyto pagrindo ir nustatytos tvarkos. Niekas negali būti suimamas kitaip, kaip tik įstatymo nustatytais atvejais ir tik teismo nutartimi ar prokuroro sankcija.
-
-Kiekvienam piliečiui garantuojama teisinė gynyba nuo jo sulaikymo momento.
+Remiantis nekaltumo prezumpcija, niekas negali būti persekiojamas kaip nusikaltėlis be įstatymo numatyto pagrindo ir nustatytos tvarkos. Niekas negali būti suimamas kitaip, kaip tik įstatymo nustatytais atvejais ir tik pagal teismo sprendimą, teisėjo nutarimą ar prokuroro sankciją.
 
 #### 34 straipsnis.
 
