@@ -20,7 +20,9 @@ Seimo nariais negali būti renkami asmenys, nebaigę atlikti bausmės pagal teis
 
 #### 57 straipsnis
 
-Eiliniai Seimo rinkimai rengiami ne anksčiau kaip prieš du mėnesius ir ne vėliau kaip prieš mėnesį iki pasibaigiant Seimo narių įgaliojimams.
+Eiliniai Seimo rinkimai rengiami Seimo narių įgaliojimų pabaigos metais spalio mėnesio antrą sekmadienį.
+
+Eiliniai Seimo rinkimai, einantys po pirmalaikių Seimo rinkimų, rengiami šio straipsnio pirmojoje dalyje nurodytu laiku.
 
 #### 58 straipsnis
 
