@@ -8,7 +8,7 @@
 
 Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per atitinkamas savivaldybių tarybas.
 
-Savivaldybių tarybų narius trejiems metams renka administracinio vieneto gyventojai - Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
 
 Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.
 
