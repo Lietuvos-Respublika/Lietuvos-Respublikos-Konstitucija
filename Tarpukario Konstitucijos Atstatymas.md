@@ -11,7 +11,7 @@ Lietuvos Respublikos Aukščiausioji Taryba,
 
 1. Nutraukti 1978 m. balandžio 20 d. Lietuvos TSR Konstitucijos (Pagrindinio įstatymo) galiojimą.
 2. Nutraukti 1977 m. spalio 7 d. TSRS Konstitucijos (Pagrindinio įstatymo), taip pat TSRS ir sąjunginių respublikų įstatymų pagrindų, kitų TSRS įstatymų galiojimą Lietuvos Respublikos teritorijoje.
-3. Atnaujinti 1938 metų gegužės 12 dienos Lietuvos Konstitucijos veikimą visoje Lietuvos Respublikos teritorijoje, sustabdant tų skyrių ir straipsnių, kurie reglamentuoja Respublikos Prezidento, Seimo, Valstybės Tarybos ir Valstybės Kontrolės statusą, galiojimą.
+3. ~~Atnaujinti 1938 metų gegužės 12 dienos Lietuvos Konstitucijos veikimą visoje Lietuvos Respublikos teritorijoje, sustabdant tų skyrių ir straipsnių, kurie reglamentuoja Respublikos Prezidento, Seimo, Valstybės Tarybos ir Valstybės Kontrolės statusą, galiojimą.~~
 4. Nustatyti, kad 1938 m. gegužės 12 d. Lietuvos Konstitucijos galiojimo atstatymas pats savaime neatkuria Lietuvos Respublikoje iki 1940 m. birželio 15 d. veikusių įstatymų.
 5. Šis įstatymas įsigalioja nuo jo priėmimo momento.
   
