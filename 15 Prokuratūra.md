@@ -4,24 +4,24 @@
 
 #### 125 straipsnis.
 
-Aukščiausiąją priežiūrą, kad visos ministerijos, žinybos, įmonės, įstaigos ir organizacijos, vietinių Liaudies deputatų tarybų vykdomieji organai, kolūkiai, kooperatinės bei kitokios visuomeninės organizacijos, pareigūnai taip pat piliečiai Lietuvos teritorijoje tiksliai ir vienodai vykdytų įstatymus, įgyvendina Lietuvos Respublikos prokuroras bei jam pavaldūs žemesnieji prokurorai.
+Priežiūrą, kad visos ministerijos, departamentai, kontrolės organai, valstybinės tarnybos, inspekcijos, vietinės valstybinės valdžios ir valdymo,organai, komercinės ūkinės veiklos dalyviai, kitokie valdymo organai, partijos, visuomeninės organizacijos ir visuomeniniai judėjimai, pareigūnai, taip pat piliečiai Lietuvos Respublikos teritorijoje vykdytų įstatymus, įgyvendina Lietuvos Respublikos generalinis prokuroras bei jam pavaldūs teritorijų prokurorai.
 
 #### 126 straipsnis.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko teikimu Lietuvos Respublikos prokurorą skiria Aukščiausioji Taryba, kuriai jis yra atsakingas ir atskaitingas.
+Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko teikimu Lietuvos Respublikos generalinį prokurorą skiria Aukščiausioji Taryba, kuriai jis yra atsakingas ir atskaitingas.
 
 #### 127 straipsnis.
 
-Lietuvos Respublikos prokuroro pavaduotojus Respublikos prokuroro teikimu skiria Aukščiausioji Taryba.
+Lietuvos Respublikos generalinio prokuroro pavaduotojus Respublikos generalinio prokuroro teikimu skiria Aukščiausioji Taryba.
 
-Rajonų ir miestų bei kitus prokurorus skiria Lietuvos Respublikos prokuroras.
+Vyriausiuosius teritorijų prokurorus skiria Lietuvos Respublikos generalinis prokuroras.
 
 #### 128 straipsnis.
 
-Lietuvos Respublikos prokuroro, jo pavaduotojų ir visų žemesniųjų prokurorų įgaliojimų laikas – penkeri metai.
+Lietuvos Respublikos generalinio prokuroro, jo pavaduotojų ir vyriausiųjų teritorijų prokurorų įgaliojimų laikas - penkeri metai.
 
 #### 129 straipsnis.
 
-Lietuvos prokuratūros organai vykdo savo įgaliojimus nepriklausomai nuo valstybinio valdymo organų ir savivaldybių, būdami pavaldūs tik Lietuvos Respublikos prokurorui.
+Lietuvos Respublikos prokuratūros organai vykdo savo įgaliojimus nepriklausomai nuo kitų valstybinės valdžios ir valdymo organų, pareigūnų, būdami pavaldūs tik Lietuvos Respublikos generaliniam prokurorui.
 
-Prokuratūros organizavimo ir veiklos tvarką nustato Lietuvos prokuratūros įstatymas.
+Prokuratūros organizavimo ir veiklos tvarką nustato Lietuvos Respublikos prokuratūros įstatymas.

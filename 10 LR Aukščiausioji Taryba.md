@@ -17,7 +17,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos kompetencijai priklauso:
 8. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininką;
 9. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko pavaduotojus ir Sekretorių;
 10. skirti Lietuvos Respublikos Ministrų Tarybos Pirmininką, jo teikimu tvirtinti Ministrų Tarybos sudėtį, daryti jos pakeitimus; Ministrų Tarybos pasiūlymu sudaryti ir panaikinti Lietuvos Respublikos ministerijas;
-11. rinkti Lietuvos Respublikos aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
+11. rinkti Lietuvos Respublikos aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos generalinį prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
 12. reguliariai išklausyti jos sudaromų arba renkamų organų, taip pat jos skiriamų pareigūnų ataskaitas; prireikus, slaptu balsavimu spręsti pasitikėjimo Lietuvos Respublikos vyriausybe konkrečiu jos nariu, klausimą;
 13. nustatyti reikiamas priemones Valstybės saugumo ir viešosios tvarkos užtikrinimo srityje; prireikus, svarstyti nacionalinių ir tarpnacionalinių santykių klausimus;
 14. sudaryti naujus rajonus, keisti rajonų pavadinimus; panaikinti rajonus; nustatyti ir panaikinti miestams respublikos statusą; keisti respublikos miestų pavadinimus;
@@ -56,7 +56,7 @@ Aukščiausiosios Tarybos sesija yra teisėta, kai joje dalyvauja ne mažiau kai
 
 #### 81 straipsnis.
 
-Įstatymų leidybos iniciatyvos teisė Lietuvos Respublikos Aukščiausiojoje Taryboje priklauso Aukščiausiosios Tarybos deputatams, Aukščiausiosios Tarybos Prezidiumui, Aukščiausiosios Tarybos Pirmininkui, Aukščiausiosios Tarybos nuolatinėms komisijoms, Ministrų Tarybai, Aukščiausiajam teismui, Lietuvos Respublikos prokurorui.
+Įstatymų leidybos iniciatyvos teisė Lietuvos Respublikos Aukščiausiojoje Taryboje priklauso Aukščiausiosios Tarybos deputatams, Aukščiausiosios Tarybos Prezidiumui, Aukščiausiosios Tarybos Pirmininkui, Aukščiausiosios Tarybos nuolatinėms komisijoms, Ministrų Tarybai, Aukščiausiajam teismui, Lietuvos Respublikos generaliniam prokurorui.
 
 Įstatymų leidybos iniciatyvos teisę taip pat turi politinės partijos, visuomeninės organizacijos jų respublikinių organų asmenyje.
 
@@ -120,7 +120,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas:
 1. vykdo bendrąjį vadovavimą rengimui klausimų, kuriuos turi apsvarstyti Aukščiausioji Taryba; pasirašo Lietuvos Respublikos įstatymus ir kitus Aukščiausiosios Tarybos ir Aukščiausiosios Tarybos Prezidiumo priimtus aktus;
 2. pateikia Aukščiausiajai Tarybai pranešimus dėl Respublikos padėties ir dėl svarbių Lietuvos vidaus ir užsienio politikos klausimų;
 3. pateikia Aukščiausiajai Tarybai kandidatūras išrinkimui į Aukščiausiosios Tarybos Pirmininko pavaduotojų ir Aukščiausiosios Tarybos Sekretoriaus pareigas;
-4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, Lietuvos Respublikos prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
+4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, Lietuvos Respublikos generalinio prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
 5. veda derybas ir pasirašo Lietuvos Respublikos tarptautines sutartis, pateikdamas jas ratifikuoti Lietuvos Respublikos Aukščiausiajai Tarybai.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas leidžia potvarkius.
