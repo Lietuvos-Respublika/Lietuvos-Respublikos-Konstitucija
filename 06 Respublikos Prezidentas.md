@@ -64,7 +64,7 @@ Respublikos Prezidentas:
 8. Vyriausybei atsistatydinus ar Vyriausybei grąžinus įgaliojimus, ne vėliau kaip per 15 dienų teikia Seimui svarstyti Ministro Pirmininko kandidatūrą;
 9. Ministro Pirmininko teikimu skiria ir atleidžia ministrus;
 10. nustatyta tvarka skiria ir atleidžia įstatymų numatytus valstybės pareigūnus;
-11. teikia Seimui Aukščiausiojo Teismo teisėjų kandidatūras, o paskyrus visus Aukščiausiojo Teismo teisėjus, iš jų teikia Seimui skirti Aukščiausiojo Teismo pirmininką; skiria Apeliacinio teismo teisėjus, o iš jų – Apeliacinio teismo pirmininką, jeigu jų kandidatūroms pritaria Seimas; skiria apygardų ir apylinkių teismų teisėjus ir pirmininkus, keičia jų darbo vietas; įstatymo numatytais atvejais teikia Seimui atleisti teisėjus;
+11. teikia Seimui Aukščiausiojo Teismo teisėjų kandidatūras, o paskyrus visus Aukščiausiojo Teismo teisėjus, iš jų teikia Seimui skirti Aukščiausiojo Teismo pirmininką; skiria Apeliacinio teismo teisėjus, o iš jų – Apeliacinio teismo pirmininką, jeigu jų kandidatūroms pritaria Seimas; skiria apygardų ir apylinkių teismų teisėjus ir pirmininkus, keičia jų darbo vietas; įstatymo numatytais atvejais teikia Seimui atleisti teisėjus; Seimo pritarimu skiria ir atleidžia Lietuvos Respublikos generalinį prokurorą;
 12. teikia Seimui trijų Konstitucinio Teismo teisėjų kandidatūras, o paskyrus visus Konstitucinio Teismo teisėjus, iš jų teikia Seimui skirti Konstitucinio Teismo pirmininko kandidatūrą;
 13. teikia Seimui valstybės kontrolieriaus, Lietuvos banko valdybos pirmininko kandidatūrą; gali teikti Seimui pareikšti nepasitikėjimą jais;
 14. Seimo pritarimu skiria ir atleidžia kariuomenės vadą ir saugumo tarnybos vadovą;

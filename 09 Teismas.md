@@ -81,8 +81,14 @@ Asmenims, nemokantiems lietuvių kalbos, garantuojama teisė dalyvauti tardymo i
 
 #### 118 straipsnis
 
-Valstybinį kaltinimą baudžiamosiose bylose palaiko, baudžiamąjį persekiojimą vykdo ir kvotos organų veiklą kontroliuoja prokurorai.
+Ikiteisminį tyrimą organizuoja ir jam vadovauja, valstybinį kaltinimą baudžiamosiose bylose palaiko prokuroras.
 
-Parengtinį tardymą atlieka tardytojai.
+Prokuroras įstatymo nustatytais atvejais gina asmens, visuomenės ir valstybės teises bei teisėtus interesus.
 
-Prokurorų ir tardytojų skyrimo tvarką ir jų statusą nustato įstatymas.
+Prokuroras, vykdydamas savo funkcijas, yra nepriklausomas ir klauso tik įstatymo.
+
+Lietuvos Respublikos prokuratūra yra Generalinė prokuratūra ir teritorinės prokuratūros.
+
+Generalinį prokurorą skiria ir atleidžia Respublikos Prezidentas Seimo pritarimu.
+
+Prokurorų skyrimo ir atleidimo tvarką, jų statusą nustato įstatymas.
