@@ -12,12 +12,12 @@ Lietuvos Respublikos Aukščiausiosios Tarybos kompetencijai priklauso:
 3. tvirtinti Lietuvos Respublikos svarbiausių ekonominio ir socialinio vystymo programų projektus; tvirtinti Lietuvos Valstybės biudžetą; kontroliuoti, kaip vykdomos programos ir biudžetas; tvirtinti jų įvykdymo ataskaitas; jei reikia, daryti biudžeto pakeitimus;
 4. įstatymiškai reguliuoti nuosavybės santykius Respublikoje, liaudies ūkio, socialinės ir kultūrinės veiklos valdymo organizavimą, biudžetinės ir finansinės sistemos, darbo apmokėjimo, kainodaros ir apmokestinimo santykius Respublikoje, aplinkos apsaugos ir gamtos išteklių naudojimo, taip pat piliečių konstitucinių teisių, laisvių ir pareigų realizavimo organizavimą ir kitus santykius;
 5. aiškinti Lietuvos Respublikos įstatymus;
-6. nustatyti Lietuvos Respublikos aukščiausiųjų ir vietinių valstybinės valdžios organų steigimo ir jų veiklos tvarką;
+6. steigti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingus valstybės organus; nustatyti Lietuvos Respublikos aukščiausiųjų ir vietinės valstybinės valdžios organų steigimo ir jų veiklos tvarką;
 7. nustatyti Lietuvos Respublikos prokuratūros, teismų ir kitų teisingumo organų sistemą, įstatymiškai įtvirtinti jų kompetenciją bei veiklos tvarką;
 8. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininką;
 9. rinkti Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko pavaduotojus ir Sekretorių;
 10. skirti Lietuvos Respublikos Ministrų Tarybos Pirmininką, jo teikimu tvirtinti Ministrų Tarybos sudėtį, daryti jos pakeitimus; Ministrų Tarybos pasiūlymu sudaryti ir panaikinti Lietuvos Respublikos ministerijas;
-11. rinkti Lietuvos Aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos prokurorą ir jo pavaduotojus, Lietuvos Vyriausiąjį valstybinį arbitrą; tvirtinti Lietuvos Respublikos prokuratūros ir Lietuvos valstybinio arbitražo kolegiją;
+11. rinkti Lietuvos Respublikos aukščiausiąjį teismą ir rajonų (miestų) teismų teisėjus, skirti Lietuvos Respublikos prokurorą ir jo pavaduotojus, skirti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų vadovus; tvirtinti Lietuvos Respublikos prokuratūros ir kitų steigiamų Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų kolegijas;
 12. reguliariai išklausyti jos sudaromų arba renkamų organų, taip pat jos skiriamų pareigūnų ataskaitas; prireikus, slaptu balsavimu spręsti pasitikėjimo Lietuvos Respublikos vyriausybe konkrečiu jos nariu, klausimą;
 13. nustatyti reikiamas priemones Valstybės saugumo ir viešosios tvarkos užtikrinimo srityje; prireikus, svarstyti nacionalinių ir tarpnacionalinių santykių klausimus;
 14. sudaryti naujus rajonus, keisti rajonų pavadinimus; panaikinti rajonus; nustatyti ir panaikinti miestams respublikos statusą; keisti respublikos miestų pavadinimus;
@@ -48,7 +48,7 @@ Neeilines sesijas šaukia Lietuvos Respublikos Aukščiausiosios Tarybos Prezidi
 
 Lietuvos Respublikos Aukščiausiosios Tarybos sesija susideda iš Aukščiausiosios Tarybos posėdžių, taip pat Aukščiausiosios Tarybos nuolatinių komisijų posėdžių, rengiamų laikotarpiu tarp jų. Sesija pradedama ir baigiama Aukščiausiosios Tarybos posėdžiuose.
 
-Aukščiausiosios Tarybos posėdžiams vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas.
+Aukščiausiosios Tarybos posėdžiams vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas. Aukščiausiosios Tarybos Pirmininko pavedimu Lietuvos Respublikos Aukščiausiosios Tarybos posėdžiams gali pirmininkauti Aukščiausiosios Tarybos renkami seniūnas arba jo pavaduotojas.
 
 Pirmąjį po rinkimų Aukščiausiosios Tarybos posėdį pradeda Respublikos rinkiminės komisijos pirmininkas, o po to posėdžiui vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas arba jo pavaduotojas.
 
@@ -76,13 +76,13 @@ Lietuvos Respublikos įstatymai, Aukščiausiosios Tarybos nutarimai ir kitokie 
 
 #### 84 straipsnis.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas yra atskaitingas Aukščiausiajai Tarybai organas, užtikrinantis Aukščiausiosios Tarybos darbo organizavimą ir atliekantis kitus įgaliojimus Lietuvos Laikinojo Pagrindinio Įstatymo ir kitų įstatymų numatytose ribose.
+Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas yra atskaitingas Aukščiausiajai Tarybai organas, užtikrinantis Aukščiausiosios Tarybos darbo organizavimą ir atliekantis kitus įgaliojimus Lietuvos Respublikos Laikinojo Pagrindinio įstatymo ir kitų įstatymų numatytose ribose.
 
-Į Aukščiausiosios Tarybos Prezidiumą pagal pareigas įeina: Aukščiausiosios Tarybos Pirmininkas, Aukščiausiosios Tarybos Pirmininko pavaduotojai ir Aukščiausiosios Tarybos sekretorius, Aukščiausiosios Tarybos nuolatinių komisijų pirmininkai.
+Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas sudaromas iš vienuolikos asmenų.
 
-Aukščiausiosios Tarybos sprendimu į Prezidiumo sudėtį gali būti išrinkti ir kiti Lietuvos Respublikos Aukščiausiosios tarybos deputatai.
+Į Aukščiausiosios Tarybos Prezidiumą pagal pareigas įeina: Aukščiausiosios Tarybos Pirmininkas, Aukščiausiosios Tarybos Pirmininko pavaduotojai ir Aukščiausiosios Tarybos Sekretorius. Kitus Aukščiausiosios Tarybos Prezidiumo narius renka Aukščiausioji Taryba.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumui vadovauja Aukščiausiosios Tarybos Pirmininkas.
+Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumui vadovauja Aukščiausiosios Tarybos Pirmininkas, o jam nesant - Pirmininko pavaduotojas.
 
 #### 85 straipsnis.
 
@@ -120,7 +120,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas:
 1. vykdo bendrąjį vadovavimą rengimui klausimų, kuriuos turi apsvarstyti Aukščiausioji Taryba; pasirašo Lietuvos Respublikos įstatymus ir kitus Aukščiausiosios Tarybos ir Aukščiausiosios Tarybos Prezidiumo priimtus aktus;
 2. pateikia Aukščiausiajai Tarybai pranešimus dėl Respublikos padėties ir dėl svarbių Lietuvos vidaus ir užsienio politikos klausimų;
 3. pateikia Aukščiausiajai Tarybai kandidatūras išrinkimui į Aukščiausiosios Tarybos Pirmininko pavaduotojų ir Aukščiausiosios Tarybos Sekretoriaus pareigas;
-4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Ministro Pirmininko, Lietuvos Aukščiausiojo teismo pirmininko, Lietuvos Respublikos prokuroro, Lietuvos vyriausiojo valstybinio arbitro pareigas;
+4. pateikia Aukščiausiajai Tarybai kandidatūras paskyrimui arba išrinkimui į Lietuvos Respublikos Ministro Pirmininko, Lietuvos Respublikos aukščiausiojo teismo pirmininko, Lietuvos Respublikos prokuroro, kitų Aukščiausiajai Tarybai atskaitingų valstybės organų vadovų pareigas;
 5. veda derybas ir pasirašo Lietuvos Respublikos tarptautines sutartis, pateikdamas jas ratifikuoti Lietuvos Respublikos Aukščiausiajai Tarybai.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininkas leidžia potvarkius.

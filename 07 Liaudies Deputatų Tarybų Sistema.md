@@ -20,7 +20,7 @@ Svarbiausi valstybinės ir vietinės reikšmės klausimai svarstomi ir sprendži
 
 Lietuvos Respublikos Aukščiausioji Taryba renka Aukščiausiosios Tarybos Pirmininką ir suformuoja Prezidiumą. Vietinės Liaudies deputatų tarybos renka pirmininką, o rajonų ir Respublikos miestų tarybos taip pat suformuoja ir savo prezidiumą.
 
-Liaudies deputatų tarybos sudaro nuolatines komisijas, vykdomuosius, taip pat kitus joms atskaitingus organus.
+Liaudies deputatų tarybos gali sudaryti nuolatines komisijas, sudaro valdymo, taip pat kitus joms atskaitingus organus.
 
 Liaudies deputatų tarybų renkami arba skiriami pareigūnai negali eiti savo pareigų daugiau kaip dvi kadencijas iš eilės.
 
