@@ -18,15 +18,13 @@ Valstybė gina vartotojo interesus.
 
 #### 47 straipsnis
 
-Žemė, vidaus vandenys, miškai, parkai nuosavybės teise gali priklausyti tik Lietuvos Respublikos piliečiams ir valstybei.
-
-Savivaldybėms, kitiems nacionaliniams subjektams, taip pat tiems ūkinę veiklą Lietuvoje vykdantiems užsienio subjektams, kurie nustatyti konstitucinio įstatymo pagal Lietuvos Respublikos pasirinktos europinės ir transatlantinės integracijos kriterijus, gali būti leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokio sklypo įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato konstitucinis įstatymas.
-
-Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
-
-Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir kultūros objektai.
+Lietuvos Respublikai išimtine nuosavybės teise priklauso: žemės gelmės, taip pat valstybinės reikšmės vidaus vandenys, miškai, parkai, keliai, istorijos, archeologijos ir  kultūros objektai.
 
 Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš jos teritorijos, jos kontinentinį šelfą bei ekonominę zoną Baltijos jūroje.
+
+Žemę, vidaus vandenis ir miškus įsigyti nuosavybėn Lietuvos Respublikoje užsienio subjektai gali pagal konstitucinį įstatymą.
+
+Žemės sklypai nuosavybės teise įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybei – jos diplomatinėms ir konsulinėms įstaigoms įkurti.
 
 #### 48 straipsnis
 
