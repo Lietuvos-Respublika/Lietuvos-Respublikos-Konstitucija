@@ -20,6 +20,8 @@ Lietuvos Respublika gina nuosavybės subjektų teises kitose valstybėse.
 
 Žemė, jos gelmės, vidaus ir teritoriniai vandenys, miškai, kita augmenija, gyvūnija bei kiti gamtos ištekliai yra Lietuvos nacionalinis turtas ir išimtinė Lietuvos Respublikos nuosavybė. Žemės gelmės nuosavybės teise gali priklausyti tik Lietuvos Valstybei. Kiti Lietuvos Respublikos išimtinės nuosavybės objektai nuosavybės teise gali priklausyti ir Lietuvos piliečiams, jų grupėms (kolektyvams).
 
+Žemės sklypai nuosavybės teise Lietuvos Respublikos įstatymų nustatyta tvarka ir sąlygomis gali priklausyti užsienio valstybių diplomatinėms ir konsulinėms įstaigoms.
+
 Lietuvos Respublikai priklauso išimtinės teisės į oro erdvę virš Lietuvos Respublikos teritorijos, jos kontinentinį šelfą ir ekonominę zoną Baltijos jūroje.
 
 #### 46 straipsnis.
