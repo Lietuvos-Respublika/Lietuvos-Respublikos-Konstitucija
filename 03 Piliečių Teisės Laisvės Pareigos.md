@@ -32,9 +32,15 @@ Lietuvos piliečiai turi teisę į gyvenamąjį plotą.
 
 Lietuvos piliečiai turi teisę į mokslą.
 
-Šią teisę užtikrina tai, kad visų rūšių mokslas yra nemokamas, įgyvendinamas visuotinis jaunimo vidurinis mokslas, plačiai vystomas profesinis techninis, specialusis vidurinis ir aukštasis mokslas; valstybinių stipendijų ir lengvatų teikimas moksleiviams bei studentams; nemokamas aprūpinimas mokykliniais vadovėliais; galimybė mokytis mokykloje gimtąja kalba; sąlygų savišvietai sudarymas.
+Šią teisę užtikrina tai, kad mokymas Lietuvos Respublikos valstybinėse bendrojo lavinimo ir profesinėse mokyklose yra nemokamas, įgyvendinamas visuotinis jaunimo iki 16 metų (imtinai) bendrasis lavinimas arba profesinis mokymas; įstatymų nustatyta tvarka galimybių mokytis gimtąja kalba sudarymas.
 
-Respublikos įstatymai numato atvejus, kai aukštosios mokyklos veikia akademinės autonomijos pagrindais.
+Mokslas valstybinėse aukštesniosiose ir aukštosiose mokymo įstaigose Lietuvos piliečiams yra nemokamas, išskyrus įstatymo nustatytus atvejus.
+
+Lietuvos Respublikos įstatymai numato atvejus, kai aukštosios mokyklos turi akademinę autonomiją ir apibrėžia jos teises.
+
+Įstatymų nustatyta tvarka valstybinių mokymo įstaigų moksleiviams bei studentams teikiamos stipendijos, pašalpos ir lengvatos.
+
+Be valstybinių mokymo ir mokslo įstaigų, įstatymo nustatyta tvarka gali būti steigiamos fiziniams ar juridiniams asmenims priklausančios mokymo ir mokslo įstaigos.
 
 #### 24 straipsnis.
 
