@@ -27,7 +27,7 @@ Lietuvos Respublikos Aukščiausiosios Tarybos kompetencijai priklauso:
 18. steigti Lietuvos Respublikos valstybinius apdovanojimus;
 19. priimti sprendimą surengti referendumą savo iniciatyva arba kai to pareikalauja ne mažiau kaip trys šimtai tūkstančių Lietuvos Respublikos piliečių;
 20. leisti amnestijos aktus;
-21. panaikinti Ministrų Tarybos nutarimus ir potvarkius, taip pat rajonų ir Respublikos miestų tarybų sprendimus, jeigu jie prieštarauja įstatymams;
+21. panaikinti Vyriausybės nutarimus ir potvarkius, taip pat rajonų ir Respublikos miestų tarybų sprendimus, jeigu jie prieštarauja įstatymams;
 22. spręsti kitus valstybinės reikšmės klausimus.
 
 Lietuvos Respublikos Aukščiausioji Taryba priima Lietuvos Respublikos įstatymus ir nutarimus.
@@ -56,7 +56,7 @@ Pirmąjį po rinkimų Aukščiausiosios Tarybos posėdį pradeda Respublikos rin
 
 #### 81 straipsnis.
 
-Įstatymų leidybos iniciatyvos teisė Lietuvos Respublikos Aukščiausiojoje Taryboje priklauso Aukščiausiosios Tarybos deputatams, Aukščiausiosios Tarybos Prezidiumui, Aukščiausiosios Tarybos Pirmininkui, Aukščiausiosios Tarybos nuolatinėms komisijoms, Ministrų Tarybai, Aukščiausiajam teismui, Lietuvos Respublikos generaliniam prokurorui.
+Įstatymų leidybos iniciatyvos teisė Lietuvos Respublikos Aukščiausiojoje Taryboje priklauso Aukščiausiosios Tarybos deputatams, Aukščiausiosios Tarybos Prezidiumui, Aukščiausiosios Tarybos Pirmininkui, Aukščiausiosios Tarybos nuolatinėms komisijoms, Vyriausybei, Aukščiausiajam teismui, Lietuvos Respublikos generaliniam prokurorui.
 
 Įstatymų leidybos iniciatyvos teisę taip pat turi politinės partijos, visuomeninės organizacijos jų respublikinių organų asmenyje.
 
