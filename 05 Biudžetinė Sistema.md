@@ -10,13 +10,13 @@ Lietuvos Valstybės biudžete sukaupiama nacionalinių pajamų dalis, skiriama L
 
 #### 48 straipsnis.
 
-Lietuvos Respublikos biudžeto projektą rengia Vyriausybė, remdamasi numatomomis ir vykdomomis valstybinėmis programomis, galiojančiais Lietuvos Respublikos įstatymais, ir pateikia tvirtinti Aukščiausiajai Tarybai.
+Lietuvos Respublikos biudžeto projektą rengia Vyriausybė, remdamasi numatomomis ir vykdomomis valstybinėmis programomis, galiojančiais Lietuvos Respublikos įstatymais, ir pateikia tvirtinti Seimui.
 
 #### 49 straipsnis.
 
-Lietuvos Respublikos biudžetą svarsto, tvirtina ir keičia Lietuvos Respublikos Aukščiausioji Taryba, remdamasi Lietuvos Respublikos Vyriausybės pranešimu ir nuolatinių komisijų išvadomis.
+Lietuvos Respublikos biudžetą svarsto, tvirtina ir keičia Lietuvos Respublikos Seimas, remdamasi Lietuvos Respublikos Vyriausybės pranešimu ir nuolatinių komisijų išvadomis.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos deputatai svarstymo metu gali siūlyti didinti projekte numatomas išlaidas tik nurodydami šių išlaidų padengimo šaltinį.
+Lietuvos Respublikos Seimo deputatai svarstymo metu gali siūlyti didinti projekte numatomas išlaidas tik nurodydami šių išlaidų padengimo šaltinį.
 
 Bendrieji patvirtinto biudžeto rodikliai skelbiami visų žiniai.
 
@@ -26,7 +26,7 @@ Lietuvos Respublikos biudžeto vykdymą organizuoja Lietuvos Vyriausybė.
 
 #### 51 straipsnis.
 
-Lietuvos Valstybės biudžeto vykdymo apyskaitą sudaro Vyriausybė, svarsto ir tvirtina Aukščiausioji Taryba. Bendrieji biudžeto vykdymo rodikliai skelbiami visų žiniai.
+Lietuvos Valstybės biudžeto vykdymo apyskaitą sudaro Vyriausybė, svarsto ir tvirtina Seimas. Bendrieji biudžeto vykdymo rodikliai skelbiami visų žiniai.
 
 #### 52 straipsnis.
 

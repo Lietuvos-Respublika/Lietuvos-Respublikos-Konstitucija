@@ -8,11 +8,11 @@ Priežiūrą, kad visos ministerijos, departamentai, kontrolės organai, valstyb
 
 #### 126 straipsnis.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Pirmininko teikimu Lietuvos Respublikos generalinį prokurorą skiria Aukščiausioji Taryba, kuriai jis yra atsakingas ir atskaitingas.
+Lietuvos Respublikos Seimo Pirmininko teikimu Lietuvos Respublikos generalinį prokurorą skiria Seimas, kuriai jis yra atsakingas ir atskaitingas.
 
 #### 127 straipsnis.
 
-Lietuvos Respublikos generalinio prokuroro pavaduotojus Respublikos generalinio prokuroro teikimu skiria Aukščiausioji Taryba.
+Lietuvos Respublikos generalinio prokuroro pavaduotojus Respublikos generalinio prokuroro teikimu skiria Seimas.
 
 Vyriausiuosius teritorijų prokurorus skiria Lietuvos Respublikos generalinis prokuroras.
 

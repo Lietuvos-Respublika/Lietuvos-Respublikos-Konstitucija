@@ -14,19 +14,19 @@ Suvereni Valstybės valdžia priklauso Lietuvos liaudžiai. Liaudis savo suveren
 
 Lietuvos Respublikos piliečiai turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės suverenumą ir vientisumą.
 
-Valstybinę valdžią Lietuvoje vykdo Lietuvos Respublikos Aukščiausioji Taryba, Lietuvos Respublikos Vyriausybė ir Teismas.
+Valstybinę valdžią Lietuvoje vykdo Lietuvos Respublikos Seimas, Lietuvos Respublikos Vyriausybė ir Teismas.
 
 #### 3 straipsnis.
 
 Svarbiausi Lietuvos valstybinio bei visuomeninio gyvenimo klausimai pateikiami visuomenės svarstymui, taip pat sprendžiami referendumu.
 
-Referendumą skelbia Lietuvos Respublikos Aukščiausioji Taryba savo iniciatyva arba kai to reikalauja trys šimtai tūkstančių rinkimų teisę turinčių Lietuvos piliečių.
+Referendumą skelbia Lietuvos Respublikos Seimas savo iniciatyva arba kai to reikalauja trys šimtai tūkstančių rinkimų teisę turinčių Lietuvos piliečių.
 
 Svarbiausių valstybinio gyvenimo klausimų pateikimo visuomenės svarstymui ir referendumo vykdymo tvarką nustato įstatymai.
 
 #### 4 straipsnis.
 
-Lietuvos Respublikos teritorija yra vientisa ir nedaloma, jos sienos gali būti keičiamos tik tarptautine sutartimi, ją ratifikavus Lietuvos Aukščiausiajai Tarybai 4/5 visų deputatų balsų.
+Lietuvos Respublikos teritorija yra vientisa ir nedaloma, jos sienos gali būti keičiamos tik tarptautine sutartimi, ją ratifikavus Lietuvos Seimui 4/5 visų deputatų balsų.
 
 #### 5 straipsnis.
 

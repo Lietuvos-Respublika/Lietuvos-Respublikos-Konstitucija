@@ -10,13 +10,13 @@ Vykdomąją valdžią Lietuvos Respublikoje įgyvendina Vyriausybė. Lietuvos Re
 
 Ministras Pirmininkas vadovauja Vyriausybei ir jai atstovauja.
 
-Ministrą Pirmininką skiria Aukščiausioji Taryba Aukščiausiosios Tarybos Pirmininko teikimu. Ministro Pirmininko pavaduotojus ir ministrus skiria Aukščiausioji Taryba Ministro Pirmininko teikimu. Vyriausybės sudarymo tvarką nustato Vyriausybės įstatymas ir Aukščiausiosios Tarybos reglamentas.
+Ministrą Pirmininką skiria Seimas Seimo Pirmininko teikimu. Ministro Pirmininko pavaduotojus ir ministrus skiria Seimas Ministro Pirmininko teikimu. Vyriausybės sudarymo tvarką nustato Vyriausybės įstatymas ir Seimo reglamentas.
 
 #### 95 straipsnis.
 
-Lietuvos Vyriausybė atsakinga Lietuvos Respublikos Aukščiausiajai Tarybai ir jai atskaitinga, o laikotarpiu tarp Aukščiausiosios Tarybos sesijų – Aukščiausiosios Tarybos Prezidiumui, kuriam yra atskaitinga.
+Lietuvos Vyriausybė atsakinga Lietuvos Respublikos Seimui ir jai atskaitinga, o laikotarpiu tarp Seimo sesijų – Seimo Prezidiumui, kuriam yra atskaitinga.
 
-Vyriausybė reguliariai atsiskaito už darbą Aukščiausiajai Tarybai ir privalo turėti jos pasitikėjimą. Jeigu Aukščiausioji Taryba slaptu balsavimu daugiau kaip pusės bendro deputatų skaičiaus balsų dauguma pareiškia nepasitikėjimą Vyriausybe ar jos nariu, visa Vyriausybė ar tas Vyriausybės narys turi atsistatydinti.
+Vyriausybė reguliariai atsiskaito už darbą Seimui ir privalo turėti jos pasitikėjimą. Jeigu Seimas slaptu balsavimu daugiau kaip pusės bendro deputatų skaičiaus balsų dauguma pareiškia nepasitikėjimą Vyriausybe ar jos nariu, visa Vyriausybė ar tas Vyriausybės narys turi atsistatydinti.
 
 #### 96 straipsnis.
 
@@ -30,13 +30,13 @@ Vyriausybės nutarimai ir potvarkiai turi būti vykdomi visoje Lietuvos teritori
 
 #### 98 straipsnis.
 
-Lietuvos Vyriausybė savo kompetencijos ribose turi teisę panaikinti ministerijų ir kitų jai pavaldžių organų aktus. Vyriausybė turi teisę užprotestuoti Aukščiausiojoje Taryboje aukštesniosios pakopos savivaldybės tarybos sprendimus, jeigu jie prieštarauja Lietuvos įstatymams.
+Lietuvos Vyriausybė savo kompetencijos ribose turi teisę panaikinti ministerijų ir kitų jai pavaldžių organų aktus. Vyriausybė turi teisę užprotestuoti Seime aukštesniosios pakopos savivaldybės tarybos sprendimus, jeigu jie prieštarauja Lietuvos įstatymams.
 
-Lietuvos įstatymų numatytais atvejais Vyriausybė gali sustabdyti ir užprotestuoti aukštesniosios pakopos savivaldybės valdymo organų sprendimus šioje savivaldybės taryboje. Kilus ginčui, klausimą galutinai sprendžia Aukščiausioji Taryba.
+Lietuvos įstatymų numatytais atvejais Vyriausybė gali sustabdyti ir užprotestuoti aukštesniosios pakopos savivaldybės valdymo organų sprendimus šioje savivaldybės taryboje. Kilus ginčui, klausimą galutinai sprendžia Seimas.
 
 #### 99 straipsnis.
 
-Vyriausybė grąžina savo įgaliojimus naujai išrinktai Aukščiausiajai Tarybai jos pirmojoje sesijoje.
+Vyriausybė grąžina savo įgaliojimus naujai išrinktam Seimui jo pirmojoje sesijoje.
 
 #### 100 straipsnis.
 

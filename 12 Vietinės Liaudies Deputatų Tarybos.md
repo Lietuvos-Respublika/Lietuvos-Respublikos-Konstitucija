@@ -44,9 +44,9 @@ Vietinių Tarybų nuolatinių komisijų rekomendacijas privalo apsvarstyti atiti
 
 #### 108 straipsnis.
 
-Žemesniosios pakopos savivaldybės Liaudies deputatų tarybos turi teisę užprotestuoti Aukščiausiojoje Taryboje aukštesniosios pakopos savivaldybės organų sprendimus klausimais, kurie priskirti žemesniosios pakopos savivaldybės išimtinei kompetencijai.
+Žemesniosios pakopos savivaldybės Liaudies deputatų tarybos turi teisę užprotestuoti Seime aukštesniosios pakopos savivaldybės organų sprendimus klausimais, kurie priskirti žemesniosios pakopos savivaldybės išimtinei kompetencijai.
 
-Aukštesniosios pakopos savivaldybės Liaudies deputatų taryba turi teisę sustabdyti žemesniosios pakopos savivaldybės organų sprendimus, jeigu jie prieštarauja Lietuvos įstatymams. Kilus ginčui, klausimą galutinai sprendžia Aukščiausioji Taryba.
+Aukštesniosios pakopos savivaldybės Liaudies deputatų taryba turi teisę sustabdyti žemesniosios pakopos savivaldybės organų sprendimus, jeigu jie prieštarauja Lietuvos įstatymams. Kilus ginčui, klausimą galutinai sprendžia Seimas.
 
 #### 109 straipsnis.
 

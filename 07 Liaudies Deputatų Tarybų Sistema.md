@@ -4,19 +4,19 @@
 
 #### 60 straipsnis.
 
-Liaudies deputatų tarybos – Lietuvos Respublikos Aukščiausioji Taryba, rajonų, miestų, gyvenviečių ir apylinkių Liaudies deputatų Tarybos – sudaro vieningą Lietuvos atstovaujamų valstybinės valdžios organų sistemą.
+Liaudies deputatų tarybos – Lietuvos Respublikos Seimas, rajonų, miestų, gyvenviečių ir apylinkių Liaudies deputatų Tarybos – sudaro vieningą Lietuvos atstovaujamų valstybinės valdžios organų sistemą.
 
 Liaudies deputatų tarybos savo teritorijoje yra pilnateisės gyventojų valios vykdytojos, veikiančios demokratijos ir įstatymų pagrindu.
 
 #### 61 straipsnis.
 
-Tarybų įgaliojimų laikas – penkeri metai. Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir vietinių tarybų deputatų rinkimai skiriami likus ne mažiau kaip penkiems mėnesiams iki jų įgaliojimų laiko pabaigos.
+Tarybų įgaliojimų laikas – penkeri metai. Lietuvos Respublikos Seimo deputatų ir vietinių tarybų deputatų rinkimai skiriami likus ne mažiau kaip penkiems mėnesiams iki jų įgaliojimų laiko pabaigos.
 
-Lietuvos Respublikos Aukščiausioji Taryba gali nutraukti savo įgaliojimus anksčiau laiko. Toks nutarimas turi būti priimtas dviejų trečdalių bendro deputatų skaičiaus balsų dauguma. Tokiu atveju skelbiami pirmalaikiai rinkimai, o Aukščiausioji Taryba vykdo valstybinės valdžios funkcijas tol, kol bus išrinkta nauja Aukščiausioji Taryba.
+Lietuvos Respublikos Seimas gali nutraukti savo įgaliojimus anksčiau laiko. Toks nutarimas turi būti priimtas dviejų trečdalių bendro deputatų skaičiaus balsų dauguma. Tokiu atveju skelbiami pirmalaikiai rinkimai, o Seimas vykdo valstybinės valdžios funkcijas tol, kol bus išrinkta nauja Seimas.
 
 #### 62 straipsnis.
 
-Svarbiausi valstybinės ir vietinės reikšmės klausimai svarstomi ir sprendžiami Lietuvos Respublikos Aukščiausiosios Tarybos ir vietinių Liaudies deputatų tarybų sesijose.
+Svarbiausi valstybinės ir vietinės reikšmės klausimai svarstomi ir sprendžiami Lietuvos Respublikos Seimo ir vietinių Liaudies deputatų tarybų sesijose.
 
 Liaudies deputatų tarybos gali sudaryti nuolatines komisijas, sudaro valdymo, taip pat kitus joms atskaitingus organus.
 

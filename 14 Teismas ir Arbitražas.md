@@ -14,15 +14,15 @@ Lietuvos teismų organizavimo ir veiklos tvarką nustato Lietuvos įstatymai.
 
 Lietuvos Respublikos teismai sudaromi iš skiriamų teisėjų ir renkamų tarėjų.
 
-Lietuvos Aukščiausiojo Teismo pirmininką, šio teismo skyrių pirmininkus ir teisėjus skiria Lietuvos Respublikos Aukščiausioji Taryba.
+Lietuvos Aukščiausiojo Teismo pirmininką, šio teismo skyrių pirmininkus ir teisėjus skiria Lietuvos Respublikos Seimas.
 
-Lietuvos Respublikos apylinkių, apygardų teismų ir Lietuvos apeliacinio teismo teisėjus skiria Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumas.
+Lietuvos Respublikos apylinkių, apygardų teismų ir Lietuvos apeliacinio teismo teisėjus skiria Lietuvos Respublikos Seimo Prezidiumas.
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo paskirtus Lietuvos apeliacinio teismo teisėjus tvirtina Lietuvos Respublikos Aukščiausioji Taryba.
+Lietuvos Respublikos Seimo Prezidiumo paskirtus Lietuvos apeliacinio teismo teisėjus tvirtina Lietuvos Respublikos Seimas.
 
 Lietuvos Respublikos teismų teisėjai skiriami penkeriems metams. Pasibaigus šiam laikotarpiui, jie skiriami: moterys iki 60 metų, vyrai iki 65 metų amžiaus.
 
-Teisėjai atsakingi Lietuvos Respublikos Aukščiausiajai Tarybai ir tik jos sprendimu įstatymo nustatyta tvarka ir pagrindais gali būti atleisti iš užimamų pareigų.
+Teisėjai atsakingi Lietuvos Respublikos Seimui ir tik jos sprendimu įstatymo nustatyta tvarka ir pagrindais gali būti atleisti iš užimamų pareigų.
 
 #### 115 straipsnis.
 
