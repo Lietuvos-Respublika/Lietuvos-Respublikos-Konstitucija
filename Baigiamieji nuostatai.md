@@ -10,6 +10,10 @@ Lietuvos Respublikos Konstitucijos sudedamąja dalimi yra:
 
 1992 m. birželio 8 d. [Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“](Konstitucijos%20sudedamoji%20dalis/Aktas%20Dėl%20LR%20nesijungimo%20į%20rytų%20sąjungas.md#k-o-n-s-t-i-t-u-c-i-n-i-s--a-k-t-a-s)
 
+1992 m. spalio 25 d. [Įstatymas „Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“](Konstitucijos%20sudedamoji%20dalis/Įstatymas%20Dėl%20LR%20Konstitucijos%20įsigaliojimo.md#%C4%AE-s-t-a-t-y-m-a-s)
+
+2004 m. liepos 13 d. [Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“](Konstitucijos%20sudedamoji%20dalis/Aktas%20Dėl%20LR%20narystės%20Europos%20Sąjungoje.md#lietuvos-respublikos-konstitucinis-aktas)
+
 #### 151 straipsnis
 
 Ši Lietuvos Respublikos Konstitucija įsigalioja kitą dieną po referendumo rezultatų oficialaus paskelbimo ir su sąlyga, jeigu referendume jai pritars daugiau kaip pusė visų Lietuvos Respublikos piliečių, turinčių rinkimų teisę.
