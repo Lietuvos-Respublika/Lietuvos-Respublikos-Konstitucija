@@ -1,9 +1,3 @@
-
-Referendumui teikiamas projektas,  
-kuriam 1992 m. spalio 13 dieną  
-pritarė Lietuvos Respublikos  
-Aukščiausioji Taryba
-
 # LIETUVOS RESPUBLIKOS
 # K O N S T I T U C I J A
 
@@ -17,7 +11,7 @@ LIETUVIŲ TAUTA
 – puoselėdama Lietuvos žemėje tautinę santarvę,  
 – siekdama atviros, teisingos, darnios pilietinės visuomenės ir teisinės valstybės, atgimusios Lietuvos valstybės piliečių valia priima ir skelbia šią
 
-# KONSTITUCIJĄ
+# KONSTITUCIJA
 
 I Skirsnis [Lietuvos valstybė](01%20Lietuvos%20valstybė.md#i-skirsnis)
 
@@ -48,3 +42,12 @@ XIII Skirsnis [Užsienio politika ir Valstybės gynimas](13%20Užsienio%20poli
 XIV Skirsnis [Konstitucijos keitimas](14%20Konstitucijos%20keitimas.md#xiv-skirsnis)
 
 [Baigiamieji nuostatai](Baigiamieji%20nuostatai.md#baigiamieji-nuostatai)
+
+&nbsp;  
+&nbsp;  
+
+LIETUVOS RESPUBLIKOS  
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS  
+VYTAUTAS LANDSBERGIS  
+
+Vilnius, 1992 m. lapkričio 6 d.
