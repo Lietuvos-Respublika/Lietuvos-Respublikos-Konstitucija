@@ -8,7 +8,7 @@ Valstybė teikia paramą visiems nedarbingiems, besimokantiems ar laikinai darbo
 
 #### 55 straipsnis.
 
-Tautinės bendrijos, kurios sudaro žymią piliečių dalį, turi teisę savarankiškai tvarkyti savo tautinės kultūros reikalus, liaudies švietimą, labdarybę, savitarpio pagalbą. Valstybė teikia joms paramą.
+Tautinės bendrijos, kurios sudaro žymią piliečių dalį, turi teisę savarankiškai tvarkyti savo tautinės kultūros reikalus, švietimą, labdarybę, savitarpio pagalbą. Valstybė teikia joms paramą.
 
 #### 56 straipsnis.
 
@@ -20,7 +20,7 @@ Lietuvos Respublikoje veikia nacionalinė švietimo sistema, atitinkanti krašto
 
 Lietuvoje gyvenančių tautų piliečiams sudaromos galimybės turėti ikimokyklines įstaigas ir mokyti vaikus gimtąja kalba bei ruošti pedagogų kadrus, puoselėti savo nacionalinę kultūrą, išmokti lietuvių kalbą, susipažinti su lietuvių kultūra, tautos istorija.
 
-Liaudies švietimo sistemos organizavimą nustato Lietuvos Respublikos liaudies švietimo įstatymas.
+Švietimo sistemos organizavimą nustato Lietuvos Respublikos švietimo įstatymas.
 
 #### 58 straipsnis.
 

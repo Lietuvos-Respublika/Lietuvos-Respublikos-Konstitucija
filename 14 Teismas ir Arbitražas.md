@@ -54,7 +54,7 @@ Visuose teismuose bylos nagrinėjamos viešai. Nagrinėti bylas uždarame teismo
 
 #### 120 straipsnis.
 
-Asmeniui, traukiamam atsakomybėn, užtikrinama teisė į gynybą.
+Asmeniui, traukiamam atsakomybėn, garantuojama teisė į gynybą nuo jo sulaikyumo momento.
 
 #### 121 straipsnis.
 
@@ -66,10 +66,10 @@ Asmuo laikomas nekaltu, kol jo kaltumas nebus įrodytas įstatymo nustatyta tvar
 
 #### 123 straipsnis.
 
-Teisminę pagalbą piliečiams ir organizacijoms teikia advokatų kolegijos. Įstatymų numatytais atvejais teisinė pagalba piliečiams teikiama nemokamai.
+Teisinę pagalbą piliečiams ir organizacijoms teikia Lietuvos Respublikos advokatūra. Įstatymo numatytais atvejais teisinė pagalba piliečiams teikiama nemokamai.
 
 Advokatūros organizavimo ir veiklos tvarką nustato Lietuvos Respublikos advokatūros įstatymas.
 
 #### 124 straipsnis.
 
-Ūkinius ginčus tarp įmonių, įstaigų ir organizacijų sprendžia valstybinio arbitražo organai savo kompetencijos ribose.
+Ūkinius ginčus tarp įmonių, įstaigų ir organizacijų sprendžia valstybinio arbitražo organai, vadovaudamiesi Lietuvos Respublikos įstatymais.

@@ -16,11 +16,11 @@ Valstybinę valdžią Lietuvoje vykdo Lietuvos Respublikos Aukščiausioji Taryb
 
 #### 3 straipsnis.
 
-Svarbiausi Lietuvos valstybinio bei visuomeninio gyvenimo klausimai pateikiami liaudies svarstymui, taip pat sprendžiami referendumu.
+Svarbiausi Lietuvos valstybinio bei visuomeninio gyvenimo klausimai pateikiami visuomenės svarstymui, taip pat sprendžiami referendumu.
 
 Referendumą skelbia Lietuvos Respublikos Aukščiausioji Taryba savo iniciatyva arba kai to reikalauja trys šimtai tūkstančių rinkimų teisę turinčių Lietuvos piliečių.
 
-Svarbiausių valstybinio gyvenimo klausimų pateikimo liaudies svarstymui ir referendumo vykdymo tvarką nustato įstatymai.
+Svarbiausių valstybinio gyvenimo klausimų pateikimo visuomenės svarstymui ir referendumo vykdymo tvarką nustato įstatymai.
 
 #### 4 straipsnis.
 

@@ -42,7 +42,7 @@ Lietuvos piliečiai turi teisę naudotis kultūros laimėjimais.
 
 Šią teisę užtikrina tai, kad visiems prieinamos Lietuvos ir pasaulinės kultūros vertybės, esančios valstybiniuose ir visuomeniniuose fonduose; kultūros švietimo įstaigų vystymas ir tolygus išdėstymas Lietuvos teritorijoje; televizijos ir radijo, knygų leidybos ir periodinės spaudos, nemokamų bibliotekų tinklo vystymas; kultūrinių mainų su užsienio valstybėmis plėtimas.
 
-Kultūros saugyklos, įstaigos ir fondai, realizuojantys Valstybės dotacijas, visuomenės sluoksnių bei grupių interesus bei saviveiksmiškumą, yra nacionalinis turtas.
+Valstybės dotacijomis išlaikomos kultūros saugyklos, įstaigos ir fondai, įgyvendinantys visuomenės, jos sluoksnių bei grupių interesus bei savaveiksmiškumą, yra nacionalinis turtas.
 
 #### 25 straipsnis.
 
@@ -54,7 +54,7 @@ Autorių, išradėjų ir racionalizatorių teises saugo Valstybė.
 
 Lietuvos piliečiai turi teisę dalyvauti tvarkant valstybinius ir visuomeninius reikalus, svarstant ir priimant visos Valstybės įstatymus ir vietinės reikšmės sprendimus.
 
-Šią teisę užtikrina galimybė rinkti ir būti išrinktiems į Liaudies deputatų tarybas ir kitus renkamus valstybinius organus, dalyvauti liaudies svarstymuose ir balsavimuose, kontrolės, valstybinių organų, visuomeninių organizacijų ir visuomenės savaveiksmių organų darbe, darbo kolektyvų susirinkimuose ir susirinkimuose pagal gyvenamąją vietą.
+Šią teisę užtikrina galimybė rinkti ir būti išrinktiems į Liaudies deputatų tarybas ir kitus renkamus valstybinius organus, dalyvauti visuomenės svarstymuose ir balsavimuose, kontrolės, valstybinių organų, visuomeninių organizacijų ir visuomenės savaveiksmių organų darbe, darbo kolektyvų susirinkimuose ir susirinkimuose pagal gyvenamąją vietą.
 
 #### 27 straipsnis.
 
@@ -72,9 +72,9 @@ Lietuvos piliečiams garantuojama teisė rinkti ir platinti informaciją visais 
 
 #### 29 straipsnis.
 
-Lietuvos piliečiams garantuojamos žodžio, spaudos, susirinkimų, mitingų, gatvės eitynių ir demonstracijų laisvės.
+Lietuvos piliečiams garantuojamos žodžio, spaudos, susirinkimų, mitingų ir demonstracijų laisvės.
 
-Šių politinių laisvių įgyvendinimą užtikrina visuomeninių pastatų, gatvių ir aikščių suteikimas darbo žmonėms ir jų organizacijoms, platus informacijos skleidimas, galimybė naudotis spauda, televizija ir radiju.
+Šių politinių laisvių įgyvendinimą garantuoja visuomeninių pastatų, gatvių ir aikščių suteikimas piliečiams ir jų organizacijoms, platus informacijos skleidimas, galimybė naudotis spauda, televizija ir radiju.
 
 Šios politinės laisvės negali būti naudojamos rasinės arba tautinės nesantaikos ir antihumaniškų pažiūrų propagavimui.
 

@@ -4,13 +4,19 @@
 
 #### 101 straipsnis.
 
-Lietuvos Respublika nustato savo administracinį teritorinį suskirstymą. Lietuvos Respublikoje yra: rajonai: Akmenės, Alytaus, Anykščių, Biržų, Ignalinos, Jonavos, Joniškio, Jurbarko, Kaišiadorių, Kauno, Kėdainių, Kelmės, Klaipėdos, Kretingos, Kupiškio, Lazdijų, Marijampolės, Mažeikių, Molėtų, Pakruojo, Panevėžio, Pasvalio, Plungės, Prienų, Radviliškio, Raseinių, Rokiškio, Skuodo, Šakių, Šalčininkų, Šiaulių, Šilalės, Šilutės, Širvintų, Švenčionių, Tauragės, Telšių, Trakų, Ukmergės, Utenos, Varėnos, Vilkaviškio, Vilniaus, Zarasų;
+Lietuvos Respublika nustato savo administracinį teritorinį suskirstymą.
 
-Respublikos miestai: Vilnius, Alytus, Birštonas, Druskininkai, Marijampolė, Kaunas, Klaipėda, Neringa, Palanga, Panevėžys, Šiauliai.
+Lietuvos Respublikoje yra:
+
+rajonai: Akmenės, Alytaus, Anykščių, Biržų, Ignalinos, Jonavos, Joniškio, Jurbarko, Kaišiadorių, Kauno, Kėdainių, Kelmės, Klaipėdos, Kretingos, Kupiškio, Lazdijų, Marijampolės, Mažeikių, Molėtų, Pakruojo, Panevėžio, Pasvalio, Plungės, Prienų, Radviliškio, Raseinių, Rokiškio, Skuodo, Šakių, Šalčininkų, Šiaulių, Šilalės, Šilutės, Širvintų, Švenčionių, Tauragės, Telšių, Trakų, Ukmergės, Utenos, Varėnos, Vilkaviškio, Vilniaus, Zarasų;
+
+Respublikos miestai: Vilnius, Alytus, Birštonas, Druskininkai, Kaunas, Klaipėda, Marijampolė, Neringa, Palanga, Panevėžys, Šiauliai.
 
 #### 102 straipsnis.
 
 Rajonų, miestų, gyvenviečių, apylinkių valstybinės valdžios organai yra atitinkamos Liaudies deputatų tarybos.
+
+Vietinės Liaudies deputatų tarybos renka pirmininką, o rajonų ir Respublikos miestų tarybos taip pat suformuoja ir savo prezidiumą.
 
 #### 103 straipsnis.
 
@@ -20,7 +26,7 @@ Vietinės Liaudies deputatų tarybos savo teritorijoje vadovauja valstybiniam, �
 
 #### 104 straipsnis.
 
-Įgaliojimų ribose vietinės Liaudies deputatų tarybos užtikrina kompleksinį ekonominį ir socialinį vystymąsi savo teritorijoje; kontroliuoja, kaip šioje teritorijoje esančios aukštesnio pavaldumo įmonės, įstaigos ir organizacijos laikosi įstatymų; koordinuoja ir kontroliuoja jų veiklą žemės ir kitų gamtos turtų naudojimo, gamtos apsaugos, statybos, darbo išteklių naudojimo, istorijos ir kultūros paminklų apsaugos, liaudies vartojimo prekių gamybos, socialinio kultūrinio, buitinio ir kitokio gyventojų aptarnavimo srityse.
+Įgaliojimų ribose vietinės Liaudies deputatų tarybos užtikrina kompleksinį ekonominį ir socialinį vystymąsi savo teritorijoje; kontroliuoja, kaip šioje teritorijoje esančios aukštesniojo pavaldumo įmonės, įstaigos ir organizacijos laikosi įstatymų; koordinuoja ir kontroliuoja jų veiklą žemės ir kitų gamtos turtų naudojimo, gamtos apsaugos, statybos, darbo išteklių naudojimo, istorijos ir kultūros paminklų apsaugos, plataus vartojimo prekių gamybos, socialinio kultūrinio, buitinio ir kitokio gyventojų aptarnavimo srityse.
 
 #### 105 straipsnis.
 

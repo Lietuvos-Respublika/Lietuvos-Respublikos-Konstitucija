@@ -14,7 +14,7 @@ Lietuvos Respublikos biudžeto projektą rengia Ministrų Taryba, remdamasi numa
 
 #### 49 straipsnis.
 
-Lietuvos Respublikos biudžetą svarsto ir tvirtina Lietuvos Respublikos Aukščiausioji Taryba, remdamasi Lietuvos Respublikos Ministrų Tarybos pranešimu ir nuolatinių komisijų išvadomis.
+Lietuvos Respublikos biudžetą svarsto, tvirtina ir keičia Lietuvos Respublikos Aukščiausioji Taryba, remdamasi Lietuvos Respublikos Vyriausybės pranešimu ir nuolatinių komisijų išvadomis.
 
 Lietuvos Respublikos Aukščiausiosios Tarybos deputatai svarstymo metu gali siūlyti didinti projekte numatomas išlaidas tik nurodydami šių išlaidų padengimo šaltinį.
 
