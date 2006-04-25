@@ -8,9 +8,7 @@
 
 Lietuvos Respublikoje centrinis bankas yra Lietuvos bankas, kuris nuosavybės teise priklauso Lietuvos valstybei.
 
-Pinigų emisijos teisę turi tik Lietuvos bankas.
-
-Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus nustato įstatymas.
+Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.
 
 #### 126 straipsnis
 
