@@ -6,7 +6,7 @@
 
 #### 55 straipsnis
 
-Seimą sudaro Tautos atstovai – 141 Seimo narys, kurie renkami ketveriems metams remiantis visuotine, lygia, tiesiogine rinkimų teise ir slaptu balsavimu.
+Seimą sudaro Tautos atstovai – 121 Seimo narys, kurie renkami ketveriems metams remiantis visuotine, lygia, tiesiogine rinkimų teise ir slaptu balsavimu.
 
 Seimas laikomas išrinktu, kai yra išrinkta ne mažiau kaip 3/5 Seimo narių.
 
