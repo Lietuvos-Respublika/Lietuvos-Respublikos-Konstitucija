@@ -54,6 +54,8 @@ Dėl Vyriausybės aktų sutikimo su Konstitucija ir įstatymais į Konstitucinį
 
 Respublikos Prezidento teikimas Konstituciniam Teismui ar Seimo nutarimas ištirti, ar aktas sutinka su Konstitucija, sustabdo šio akto galiojimą.
 
+Kiekvienas asmuo turi teisę kreiptis į Konstitucinį Teismą dėl Konstitucijos 105 straipsnio pirmojoje ir antrojoje dalyse nurodytų aktų, jeigu jų pagrindu priimtas sprendimas pažeidė šio asmens konstitucines teises ar laisves ir šis asmuo išnaudojo visas teisinės gynybos priemones. Šios teisės įgyvendinimo tvarką nustato Konstitucinio Teismo įstatymas.
+
 Prašyti Konstitucinio Teismo išvados gali Seimas, o dėl Seimo rinkimų ir tarptautinių sutarčių – ir Respublikos Prezidentas.
 
 Konstitucinis Teismas turi teisę atsisakyti priimti nagrinėti bylą ar rengti išvadą, jeigu kreipimasis grindžiamas ne teisiniais motyvais.
@@ -63,6 +65,8 @@ Konstitucinis Teismas turi teisę atsisakyti priimti nagrinėti bylą ar rengti 
 Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) negali būti taikomi nuo tos dienos, kai oficialiai paskelbiamas Konstitucinio Teismo sprendimas, kad atitinkamas aktas (ar jo dalis) prieštarauja Lietuvos Respublikos Konstitucijai.
 
 Konstitucinio Teismo sprendimai klausimais, kuriuos Konstitucija priskiria jo kompetencijai, yra galutiniai ir neskundžiami.
+
+Byloje pagal Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens kreipimąsi priimtas Konstitucinio Teismo sprendimas, kad Lietuvos Respublikos įstatymas (ar jo dalis) arba kitas Seimo aktas (ar jo dalis), Respublikos Prezidento aktas, Vyriausybės aktas (ar jo dalis) prieštarauja Konstitucijai, yra pagrindas įstatymo nustatyta tvarka atnaujinti procesą dėl pažeistų to asmens konstitucinių teisių ar laisvių įgyvendinimo.
 
 Remdamasis Konstitucinio Teismo išvadomis, Konstitucijos 105 straipsnio trečiojoje dalyje nurodytus klausimus galutinai sprendžia Seimas.
 
