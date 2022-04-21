@@ -181,6 +181,8 @@ Prireikus Seimas steigia ir kitas kontrolės institucijas. Jų sistemą ir įgal
 
 Respublikos Prezidentą, Konstitucinio Teismo pirmininką ir teisėjus, Aukščiausiojo Teismo pirmininką ir teisėjus, Apeliacinio teismo pirmininką ir teisėjus, Seimo narius, šiurkščiai pažeidusius Konstituciją arba sulaužiusius priesaiką, taip pat paaiškėjus, jog padarytas nusikaltimas, Seimas 3/5 visų narių balsų dauguma gali pašalinti iš užimamų pareigų ar panaikinti Seimo nario mandatą. Tai atliekama apkaltos proceso tvarka, kurią nustato Seimo statutas.
 
+Asmuo, kurį Seimas už šiurkštų Konstitucijos pažeidimą arba priesaikos sulaužymą apkaltos proceso tvarka pašalino iš užimamų pareigų ar panaikino jo Seimo nario mandatą, gali užimti Konstitucijoje nurodytas pareigas, kurių ėjimo pradžia pagal Konstituciją yra susieta su Konstitucijoje numatytos priesaikos davimu, kai nuo Seimo sprendimo, kuriuo jis buvo pašalintas iš užimamų pareigų ar panaikintas jo Seimo nario mandatas, yra praėję ne mažiau kaip dešimt metų.
+
 #### 75 straipsnis
 
 Seimo skirti ar rinkti pareigūnai, išskyrus Konstitucijos 74 straipsnyje nurodytus asmenis, atleidžiami iš pareigų, kai Seimas visų Seimo narių balsų dauguma pareiškia jais nepasitikėjimą.
