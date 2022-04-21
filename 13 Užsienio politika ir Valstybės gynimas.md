@@ -51,7 +51,7 @@ Už valstybės ginkluotųjų pajėgų tvarkymą ir vadovavimą joms Seimui yra a
 
 #### 141 straipsnis
 
-Asmenys, atliekantys tikrąją karo arba alternatyviąją tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami pareigūnai negali būti Seimo nariais ir savivaldybių tarybų nariais. Jie negali užimti renkamų ar skiriamų pareigų civilinėje valstybinėje tarnyboje, dalyvauti politinių partijų ir politinių organizacijų veikloje.
+Asmenys, atliekantys tikrąją karo arba alternatyviąją tarnybą, taip pat neišėję į atsargą krašto apsaugos sistemos, policijos ir vidaus tarnybos karininkai, puskarininkiai ir liktiniai, kitų sukarintų ir saugumo tarnybų apmokami pareigūnai negali būti Seimo nariais, savivaldybių tarybų nariais ir savivaldybių merais. Jie negali užimti renkamų ar skiriamų pareigų civilinėje valstybinėje tarnyboje, dalyvauti politinių partijų ir politinių organizacijų veikloje.
 
 #### 142 straipsnis
 
@@ -61,7 +61,7 @@ Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar teritor
 
 #### 143 straipsnis
 
-Jeigu karo veiksmų metu turi būti rengiami eiliniai rinkimai, Seimas arba Respublikos Prezidentas priima sprendimą pratęsti Seimo, Respublikos Prezidento ar savivaldybių tarybų įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.
+Jeigu karo veiksmų metu turi būti rengiami eiliniai rinkimai, Seimas arba Respublikos Prezidentas priima sprendimą pratęsti Seimo, Respublikos Prezidento ar savivaldybių tarybų ir savivaldybių merų įgaliojimus. Šiuo atveju rinkimai turi būti skiriami ne vėliau kaip po trijų mėnesių karui pasibaigus.
 
 #### 144 straipsnis
 

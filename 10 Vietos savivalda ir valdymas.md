@@ -6,13 +6,11 @@
 
 #### 119 straipsnis
 
-Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per atitinkamas savivaldybių tarybas.
+Savivaldos teisė laiduojama įstatymo numatytiems valstybės teritorijos administraciniams vienetams. Ji įgyvendinama per savivaldybių tarybas ir savivaldybių merus.
 
-Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+Savivaldybių tarybų nariais Lietuvos Respublikos piliečius ir kitus nuolatinius administracinio vieneto gyventojus, savivaldybių merais – Lietuvos Respublikos piliečius pagal įstatymą ketveriems metams renka Lietuvos Respublikos piliečiai ir kiti nuolatiniai administracinio vieneto gyventojai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
 
 Savivaldos institucijų organizavimo ir veiklos tvarką nustato įstatymas.
-
-Lietuvos Respublikos įstatymams, Vyriausybės bei savivaldybės tarybos sprendimams tiesiogiai įgyvendinti savivaldybės taryba sudaro jai atskaitingus vykdomuosius organus.
 
 #### 120 straipsnis
 
@@ -28,7 +26,7 @@ Savivaldybių tarybos turi teisę įstatymo numatytose ribose ir tvarka nustatyt
 
 #### 122 straipsnis
 
-Savivaldybių tarybos dėl jų teisių pažeidimo turi teisę kreiptis į teismą.
+Savivaldybių tarybos ir savivaldybių merai dėl jų teisių pažeidimo turi teisę kreiptis į teismą.
 
 #### 123 straipsnis
 
@@ -42,4 +40,4 @@ Vyriausybės atstovo įgaliojimus ir jų vykdymo tvarką nustato įstatymas.
 
 #### 124 straipsnis
 
-Savivaldybių tarybų, jų vykdomųjų organų bei jų pareigūnų aktai ar veiksmai, pažeidžiantys piliečių ir organizacijų teises, gali būti skundžiami teisme.
+Savivaldybių tarybų ir savivaldybių merų aktai ar veiksmai, pažeidžiantys piliečių ar organizacijų teises, gali būti skundžiami teisme.

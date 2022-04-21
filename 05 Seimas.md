@@ -119,7 +119,7 @@ Seimas:
 9. prižiūri Vyriausybės veiklą, gali reikšti nepasitikėjimą Ministru Pirmininku ar ministru;
 10. skiria Konstitucinio Teismo teisėjus, Aukščiausiojo Teismo teisėjus bei šių teismų pirmininkus;
 11. skiria ir atleidžia valstybės kontrolierių, Lietuvos banko valdybos pirmininką;
-12. skiria savivaldybių tarybų rinkimus;
+12. skiria savivaldybių tarybų ir savivaldybių merų rinkimus;
 13. sudaro Vyriausiąją rinkimų komisiją ir keičia jos sudėtį;
 14. tvirtina valstybės biudžetą ir prižiūri, kaip jis vykdomas;
 15. nustato valstybinius mokesčius ir kitus privalomus mokėjimus;
