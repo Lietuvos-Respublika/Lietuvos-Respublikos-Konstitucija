@@ -14,7 +14,7 @@ Seimo narių rinkimų tvarką nustato įstatymas.
 
 #### 56 straipsnis
 
-Seimo nariu gali būti renkamas Lietuvos Respublikos pilietis, kuris nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną yra ne jaunesnis kaip 25 metų bei nuolat gyvena Lietuvoje.
+Seimo nariu gali būti renkamas Lietuvos Respublikos pilietis, kuris nesusijęs priesaika ar pasižadėjimu užsienio valstybei ir rinkimų dieną yra ne jaunesnis kaip 21 metų bei nuolat gyvena Lietuvoje.
 
 Seimo nariais negali būti renkami asmenys, nebaigę atlikti bausmės pagal teismo paskirtą nuosprendį, taip pat asmenys, teismo pripažinti neveiksniais.
 
