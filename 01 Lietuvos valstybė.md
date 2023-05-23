@@ -70,11 +70,9 @@ Lietuvos valstybės teritorijos administracinius vienetus ir jų ribas nustato �
 
 #### 12 straipsnis
 
-Lietuvos Respublikos pilietybė įgyjama gimstant ir kitais įstatymo nustatytais pagrindais.
+Lietuvos Respublikos pilietybė įgyjama gimstant ir kitais konstitucinio įstatymo nustatytais pagrindais ir tvarka.
 
-Išskyrus įstatymo numatytus atskirus atvejus, niekas negali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.
-
-Pilietybės įgijimo ir netekimo tvarką nustato įstatymas.
+Konstitucinis įstatymas taip pat nustato Lietuvos Respublikos pilietybės netekimo pagrindus ir tvarką.
 
 #### 13 straipsnis
 
