@@ -12,7 +12,7 @@ V Skirsnis [Seimas](05%20Seimas.md#v-skirsnis)
 
 VI Skirsnis [Respublikos Prezidentas](06%20Respublikos%20Prezidentas.md#vi-skirsnis)
 
-VII Skirsnis [Lietuvos Respublikos Vyriausybė](07%20Lietuvos%20Respublikos%20Vyriausybė.md#vii-skirsnis#vii-skirsnis)
+VII Skirsnis [Lietuvos Respublikos Vyriausybė](07%20Lietuvos%20Respublikos%20Vyriausybė.md#vii-skirsnis)
 
 VIII Skirsnis [Konstitucinis teismas](08%20Konstitucinis%20teismas.md#viii-skirsnis)
 
