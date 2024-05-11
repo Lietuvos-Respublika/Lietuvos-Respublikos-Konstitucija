@@ -51,4 +51,4 @@ Kiekvienas pakeitimas yra su originalia pakeitimo data.
     3. 1992-06-08 Konstitucinis aktas [Dėl Lietuvos Respublikos nesijungimo į postsovietinės Rytų sąjungas](https://www.e-tar.lt/portal/lt/legalAct/TAR.17D48EFB7EA2), galiojantis;
     4. 1991-02-11 Konstitucinis įstatymas [Dėl Lietuvos Valstybės](https://www.e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2), galiojantis;
     5. 1990-03-11 [LR Laikinasis Pagrindinis Įstatymas](https://www.e-tar.lt/portal/lt/legalAct/TAR.DE63AAC4EF06), galiojo nuo 1990-03-11 iki 1992-11-02;
-    6. 1990-03-11 Aktas [Dėl Lietuvos nepriklausomos valstybės atstatymo](https://www.e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4), galijantis.
+    6. 1990-03-11 Aktas [Dėl Lietuvos nepriklausomos valstybės atstatymo](https://www.e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4), galiojantis.
